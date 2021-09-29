@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block context %}
+    <div class="row mycard">
+        <div class="col-sm-8">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h5 class="card-title" style="letter-spacing: 2px; font-size: 22px; color: green">So'zlarni
+                        qidirish</h5>
+                </div>
+                {% if messages %}
+                    <ul class="messages">
+                        {% for message in messages %}
+                            <div class="alert alert-{{ message.tags }} alert-dismissible fade show"
+                                 style="padding-top: 0;" role="alert">
+                                {{ message }}
+                                <button type="button" class="btn-close" data-bs-dismiss="alert"
+                                        aria-label="Close"></button>
+                            </div>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                <div class="card-body">
+                    <form>
+                        <input placeholder="Qidirish..." autofocus value="{{ request.GET.search }}" type="search"
+                               name="search" class="form-control">
+                    </form>
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover">
+                            <thead>
+                            <th style="width: 10%;">№</th>
+                            <th style="width: 25%;">English</th>
+                            <th style="width: 25%;">Uzbek</th>
+{#                            <th style="width: 50%;">Sana</th>#}
+                            {% if user.is_superuser %}
+                                <th style="width: 25%;">User</th>
+                            {% endif %}
+                            <th style="width: 10%;">Taxrirlash</th>
+                            <th style="width: 10%;">O'chirish</th>
+                            </thead>
+                            <tbody>
+                            {% for word in words %}
+                                <tr>
+                                    <td>{{ forloop.counter }}</td>
+                                    <td>{{ word.english }}</td>
+                                    <td>{{ word.uzbek }}</td>
+{#                                    <td>{{ word.date|date:'Y-m-d H:i' }}</td>#}
+                                    {% if user.is_superuser %}
+                                        <td>{{ word.created_user.username }}</td>
+                                    {% endif %}
+                                    <td>
+                                        <a href="{% url 'edit_word' pk=word.id %}" role="button"
+                                           type="button" class="btn"><img src="{% static 'img/pencil.png' %}"
+                                                                          width="25"></a>
+                                    </td>
+                                    <td>
+                                        <a href="{% url 'delete_word' pk=word.id %}" role="button" type="button"
+                                           class="btn"><img src="{% static 'img/ochirish.png' %}" width=25></a>
+                                    </td>
+                                </tr>
+                            {% endfor %}
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock context %}

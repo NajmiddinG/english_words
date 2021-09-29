@@ -1,0 +1,4340 @@
+be,bo'lishi
+and,va
+of,ning
+a,a
+in,yilda
+to,ga
+have,bor
+it,u
+I,Men
+that,bu
+for,uchun
+you,siz
+he,u
+with,bilan
+on,kuni
+do,qil
+say,demoq
+this,bu
+they,ular
+at,da
+but,lekin
+we,biz
+his,uning
+from,dan
+not,emas
+by,tomonidan
+she,u
+or,yoki
+as,kabi
+what,nima
+go,boring
+their,ularning
+can,mumkin
+who,JSSV
+get,olish
+if,agar
+would,bo'lardi
+her,uni
+all,barchasi
+my,mening
+make,qilish
+about,haqida
+know,bilish
+will,iroda
+up,yuqoriga
+one,bitta
+time,vaqt
+there,Mana
+year,yil
+so,shunday
+think,o'ylang
+when,qachon
+which,qaysi
+them,ularni
+some,biroz
+me,men
+people,odamlar
+take,olish
+out,chiqib
+into,ichiga
+just,faqat
+see,qarang
+him,uni
+your,sizning
+come,kel
+could,mumkin edi
+now,hozir
+than,dan
+like,kabi
+other,boshqa
+how,Qanday
+then,keyin
+its,uning
+our,bizning
+two,ikkitasi
+more,Ko'proq
+these,bular
+want,xohlamoq
+way,yo'l
+look,qarash
+first,birinchi
+also,shuningdek
+new,yangi
+because,chunki
+day,kun
+use,foydalanish
+no,yo'q
+man,kishi
+find,topmoq
+here,Bu yerga
+thing,narsa
+give,berish
+many,ko'p
+well,yaxshi
+only,faqat
+those,o'sha
+tell,ayt
+very,juda
+even,hatto
+back,orqaga
+any,har qanday
+good,yaxshi
+woman,ayol
+through,orqali
+us,Biz
+life,hayot
+child,bola
+work,ish
+down,pastga
+may,mumkin
+after,keyin
+should,kerak
+call,qo'ng'iroq qiling
+world,dunyo
+over,ustida
+school,maktab
+still,hali ham
+try,harakat qilib ko'ring
+last,oxirgi
+ask,so'rang
+need,kerak
+too,ham
+feel,his qilish
+three,uchta
+state,davlat
+never,hech qachon
+become,bo'lish
+between,o'rtasida
+high,yuqori
+really,haqiqatan ham
+something,nimadur
+most,eng
+another,boshqa
+much,ko'p
+family,oila
+own,Shaxsiy
+leave,qoldiring
+put,qo'yish
+old,eski
+while,esa
+mean,anglatadi
+keep,saqlamoq
+student,talaba
+why,nima uchun
+let,ruxsat bering
+great,ajoyib
+same,bir xil
+big,katta
+group,guruh
+begin,boshlanishi
+seem,ko'rinadi
+country,mamlakat
+help,Yordam bering
+talk,gapirish
+where,qayerda
+turn,burilish
+problem,muammo
+every,har bir
+start,boshlang
+hand,qo'l
+might,mumkin
+American,Amerika
+show,ko'rsatish
+part,qism
+against,qarshi
+place,joy
+such,shunday
+again,yana
+few,oz
+case,ish
+week,hafta
+company,kompaniya
+system,tizim
+each,har biri
+right,to'g'ri
+program,dastur
+hear,eshitish
+question,savol
+during,davomida
+play,o'ynash
+government,hukumat
+run,yugurish
+small,kichik
+number,raqam
+off,yopiq
+always,har doim
+move,harakat qilish
+night,kecha
+live,yashash
+Mr,Janob
+point,nuqta
+believe,ishon
+hold,tutmoq
+today,Bugun
+bring,olib kelish
+happen,sodir bo'lmoq
+next,Keyingi
+without,holda
+before,oldin
+large,katta
+million,million
+must,kerak
+home,uy
+under,ostida
+water,suv
+room,xona
+write,yozmoq
+mother,Ona
+area,maydon
+national,milliy
+money,pul
+story,hikoya
+young,yosh
+fact,haqiqat
+month,oy
+different,boshqacha
+lot,ko'p
+study,o'rganish
+book,kitob
+eye,ko'z
+job,ish
+word,so'z
+though,Garchi
+business,biznes
+issue,nashr
+side,yon tomon
+kind,mehribon
+four,to'rt
+head,bosh
+far,uzoq
+black,qora
+long,uzoq
+both,ikkalasi ham
+little,oz
+house,uy
+yes,ha
+since,beri
+provide,ta'minlash
+service,xizmat
+around,atrofida
+friend,do'stim
+important,muhim
+father,ota
+sit,o'tirish
+away,uzoqda
+until,gacha
+power,kuch
+hour,soat
+game,o'yin
+often,ko'pincha
+yet,hali
+line,chiziq
+political,siyosiy
+end,oxiri
+among,orasida
+ever,har doim
+stand,turish
+bad,yomon
+lose,yo'qotish
+however,ammo
+member,a'zo
+pay,to'lash
+law,qonun
+meet,uchrashmoq
+car,mashina
+city,shahar
+almost,deyarli
+include,o'z ichiga oladi
+continue,davom eting
+set,o'rnatilgan
+later,keyinroq
+community,jamiyat
+name,ism
+five,besh
+once,bir marta
+white,oq
+least,kamida
+president,Prezident
+learn,o'rganish
+real,haqiqiy
+change,o'zgartirish
+team,jamoa
+minute,daqiqa
+best,eng yaxshi
+several,bir nechta
+idea,g'oya
+kid,bola
+body,tanasi
+information,ma `lumot
+nothing,hech narsa
+ago,oldin
+lead,qo'rg'oshin
+social,ijtimoiy
+understand,tushunish
+whether,yo'qmi
+watch,tomosha qiling
+together,birgalikda
+follow,amal qiling
+parent,ota-ona
+stop,To'xta
+face,yuz
+anything,har qanday narsa
+create,yaratmoq
+public,jamoat
+already,allaqachon
+speak,gapirish
+others,boshqalar
+read,o'qing
+level,Daraja
+allow,ruxsat berish
+add,qo'shish
+office,idora
+spend,sarf qilmoq
+door,eshik
+health,sog'liq
+person,shaxs
+art,san'at
+sure,aniq
+war,urush
+history,tarix
+party,ziyofat
+within,ichida
+grow,o'sadi
+result,natija
+open,ochiq
+morning,ertalab
+walk,yurish
+reason,sabab
+low,past
+win,g'alaba qozonish
+research,tadqiqot
+girl,qiz
+guy,yigit
+early,erta
+food,ovqat
+moment,lahza
+himself,o'zi
+air,havo
+teacher,o'qituvchi
+force,kuch
+offer,taklif
+enough,yetarli
+education,ta'lim
+across,bo'ylab
+although,bo'lsa-da
+remember,eslayman
+foot,oyoq
+second,ikkinchi
+boy,bola
+maybe,balki
+toward,tomonga
+able,qodir
+age,yoshi
+policy,siyosat
+everything,hamma narsa
+love,sevgi
+process,jarayon
+music,musiqa
+including,shu jumladan
+consider,o'ylab ko'ring
+appear,paydo bo'ladi
+actually,aslida
+buy,sotib olish
+probably,ehtimol
+human,inson
+wait,Kutmoq
+serve,xizmat qilish
+market,bozor
+die,o'lmoq
+send,yuborish
+expect,kutmoq
+sense,sezgi
+build,qurmoq
+stay,qolish
+fall,yiqilish
+oh,oh
+nation,millat
+plan,reja
+cut,kesilgan
+college,kollej
+interest,qiziqish
+death,o'lim
+course,albatta
+someone,kimdir
+experience,tajriba
+behind,orqada
+reach,yetmoq
+local,mahalliy
+kill,o'ldirmoq
+six,olti
+remain,qolmoq
+effect,effekt
+yeah,ha
+suggest,taklif qilmoq
+class,sinf
+control,boshqaruv
+raise,oshirish
+care,g'amxo'rlik
+perhaps,balki
+late,kech
+hard,qiyin
+field,maydon
+else,boshqa
+pass,o'tish
+former,avvalgi
+sell,sotish
+major,katta
+sometimes,ba'zan
+require,talab qilish
+along,birga
+development,rivojlanish
+themselves,o'zlari
+report,hisobot
+role,rol
+better,yaxshiroq
+economic,iqtisodiy
+effort,harakat
+decide,qaror qiling
+rate,stavka
+strong,kuchli
+possible,mumkin
+heart,yurak
+drug,dori
+leader,rahbar
+light,yorug'lik
+voice,ovoz
+wife,xotin
+whole,butun
+police,politsiya
+mind,aql
+finally,nihoyat
+pull,Torting
+return,qaytish
+free,ozod
+military,harbiy
+price,narx
+less,Ozroq
+according,ko'ra
+decision,qaror
+explain,tushuntiring
+son,o'g'il
+hope,umid
+develop,rivojlantirish
+view,ko'rinish
+relationship,munosabatlar
+carry,olib yurmoq
+town,shahar
+road,yo'l
+drive,haydash
+arm,qo'l
+True,To'g'ri
+federal,federal
+break,tanaffus
+difference,farq
+thank,rahmat
+receive,qabul qilish
+value,qiymat
+international,xalqaro
+building,bino
+action,harakat
+full,to'liq
+model,model
+join,qo'shilish
+season,mavsum
+society,jamiyat
+tax,soliq
+director,direktor
+position,pozitsiya
+player,o'yinchi
+agree,rozi bo'ling
+especially,ayniqsa
+record,yozuv
+pick,tanlash
+wear,kiyish
+paper,qog'oz
+special,maxsus
+space,bo'sh joy
+ground,zamin
+form,shakl
+support,qo'llab-quvvatlash
+event,tadbir
+official,rasmiy
+whose,kimning
+matter,materiya
+everyone,hamma
+center,markaz
+couple,er-xotin
+site,sayt
+project,loyiha
+hit,urish
+base,tayanch
+activity,faoliyat
+star,Yulduz
+table,stol
+court,sud
+produce,mahsulot
+eat,yemoq
+teach,o'rgatish
+oil,yog '
+half,yarmi
+situation,vaziyat
+easy,oson
+cost,xarajat
+industry,sanoat
+figure,shakl
+street,ko'cha
+image,rasm
+itself,o'zi
+phone,telefon
+either,yoki
+data,ma'lumotlar
+cover,qopqoq
+quite,juda
+picture,rasm
+clear,aniq
+practice,mashq qilish
+piece,parcha
+land,er
+recent,yaqinda
+describe,tasvirlab bering
+product,mahsulot
+doctor,shifokor
+wall,devor
+patient,sabrli
+worker,ishchi
+news,Yangiliklar
+test,sinov
+movie,kino
+certain,aniq
+north,shimoliy
+personal,shaxsiy
+simply,shunchaki
+third,uchinchisi
+technology,texnologiya
+catch,ushlamoq
+step,qadam
+baby,bolam
+computer,kompyuter
+type,turi
+attention,diqqat
+draw,chizish
+film,film
+Republican,Respublika
+tree,daraxt
+source,manba
+red,qizil
+nearly,deyarli
+organization,tashkilot
+choose,tanlang
+cause,sabab
+hair,Soch
+century,asr
+evidence,dalil
+window,oyna
+difficult,qiyin
+listen,tinglang
+soon,tez orada
+culture,madaniyat
+billion,milliard
+chance,imkoniyat
+brother,aka
+energy,energiya
+period,davr
+summer,yoz
+realize,anglamoq
+hundred,yuz
+available,mavjud
+plant,o'simlik
+likely,ehtimol
+opportunity,imkoniyat
+term,muddat
+short,qisqa
+letter,xat
+condition,holat
+choice,tanlov
+single,bitta
+rule,qoida
+daughter,qizim
+administration,ma'muriyat
+south,janub
+husband,er
+Congress,Kongress
+floor,zamin
+campaign,kampaniya
+material,material
+population,aholi
+economy,iqtisodiyot
+medical,tibbiy
+hospital,kasalxona
+church,cherkov
+close,yaqin
+thousand,ming
+risk,xavf
+current,joriy
+fire,olov
+future,kelajak
+wrong,noto'g'ri
+involve,jalb qilmoq
+defense,mudofaa
+anyone,har kim
+increase,kattalashtirish; ko'paytirish
+security,xavfsizlik
+bank,bank
+myself,o'zim
+certainly,albatta
+west,g'arb
+sport,sport
+board,taxta
+seek,izlamoq
+per,per
+subject,Mavzu
+officer,ofitser
+private,xususiy
+rest,dam olish
+behavior,xulq-atvor
+deal,bitim
+performance,ishlash
+fight,kurash
+throw,otish
+top,yuqori
+quickly,tez
+past,o'tmish
+goal,maqsad
+bed,karavot
+order,buyurtma
+author,muallif
+fill,to'ldirish
+represent,vakillik qilish
+focus,diqqat
+foreign,chet el
+drop,tushirish
+blood,qon
+upon,ustiga
+agency,agentlik
+push,Durang
+nature,tabiat
+color,rang
+recently,yaqinda
+store,do'kon
+reduce,kamaytirish
+sound,tovush
+note,Eslatma
+fine,yaxshi
+near,yaqin
+movement,harakat
+page,sahifa
+enter,kiriting
+share,ulush
+common,umumiy
+poor,kambag'al
+natural,tabiiy
+race,poyga
+concern,tashvish
+series,seriyali
+significant,muhim
+similar,o'xshash
+hot,issiq
+language,til
+usually,odatda
+response,javob
+dead,o'lik
+rise,ko'tarilish
+animal,hayvon
+factor,omil
+decade,o'n yil
+article,maqola
+shoot,otish
+east,sharq
+save,saqlash
+seven,Yetti
+artist,rassom
+scene,sahna
+stock,Aksiya
+career,martaba
+despite,qaramay
+central,markaziy
+eight,sakkiz
+thus,shunday qilib
+treatment,davolash
+beyond,tashqarida
+happy,baxtli
+exactly,aniq
+protect,himoya qilmoq
+approach,yondashuv
+lie,yolg'on
+size,hajmi
+dog,it
+fund,fond
+serious,jiddiy
+occur,sodir bo'lishi
+media,ommaviy axborot vositalari
+ready,tayyor
+sign,imzo
+thought,deb o'yladi
+list,ro'yxat
+individual,individual
+simple,oddiy
+quality,sifat
+pressure,bosim
+accept,qabul qilish
+answer,javob bering
+resource,manba
+identify,aniqlash
+left,chap
+meeting,uchrashuv
+determine,aniqlash
+prepare,tayyorlash
+disease,kasallik
+whatever,nima bo'lsa ham
+success,muvaffaqiyat
+argue,bahslashmoq
+cup,chashka
+particularly,ayniqsa
+amount,miqdori
+ability,qobiliyat
+staff,xodimlar
+recognize,tan olish
+indicate,ko'rsatmoq
+character,belgi
+growth,o'sish
+loss,yo'qotish
+degree,daraja
+wonder,hayrat
+attack,hujum
+herself,o'zi
+region,mintaqa
+television,televizor
+box,quti
+TV,Televizor
+training,ta'lim
+pretty,chiroyli
+trade,savdo
+election,saylov
+everybody,hamma
+physical,jismoniy
+lay,yotish
+general,umumiy
+feeling,tuyg'u
+standard,standart
+bill,qonun loyihasi
+message,xabar
+fail,muvaffaqiyatsiz
+outside,tashqarida
+arrive,kelmoq
+analysis,tahlil
+benefit,foyda olish
+sex,jinsiy aloqa
+forward,oldinga
+lawyer,yurist
+present,hozir
+section,Bo'lim
+environmental,atrof-muhit
+glass,stakan
+skill,mahorat
+sister,opa
+PM,Bosh vazir
+professor,professor
+operation,operatsiya
+financial,moliyaviy
+crime,jinoyat
+stage,bosqich
+ok,ok
+compare,taqqoslash
+authority,hokimiyat
+miss,sog'inmoq
+design,dizayn
+sort,saralash
+act,harakat qilish
+ten,o'n
+knowledge,bilim
+gun,qurol
+station,stantsiya
+blue,ko'k
+strategy,strategiya
+clearly,aniq
+discuss,muhokama qilish
+indeed,haqiqatdan ham
+truth,haqiqat
+song,Qo'shiq
+example,misol
+democratic,demokratik
+check,tekshirish
+environment,atrof-muhit
+leg,oyoq
+dark,qorong'i
+various,turli xil
+rather,aksincha
+laugh,kulmoq
+guess,taxmin qilish
+executive,ijro etuvchi
+prove,isbotlash
+hang,osib qo'ying
+entire,butun
+rock,tosh
+forget,unut
+claim,Talab
+remove,olib tashlash
+manager,menejer
+enjoy,zavqlanmoq
+network,tarmoq
+legal,qonuniy
+religious,diniy
+cold,sovuq
+final,final
+main,asosiy
+science,fan
+green,yashil
+memory,xotira
+card,karta
+above,yuqorida
+seat,o'rindiq
+cell,hujayra
+establish,o'rnatmoq
+nice,yaxshi
+trial,sud jarayoni
+expert,mutaxassis
+spring,bahor
+firm,qat'iy
+Democrat,Demokrat
+radio,radio
+visit,tashrif buyurish
+management,boshqaruv
+avoid,qochmoq
+imagine,tasavvur qiling
+tonight,bugun tunda
+huge,ulkan
+ball,to'p
+finish,tugatish
+yourself,o'zingiz
+theory,nazariya
+impact,ta'sir
+respond,javob bering
+statement,bayonot
+maintain,saqlamoq
+charge,zaryadlash
+popular,mashhur
+traditional,an'anaviy
+onto,ustiga
+reveal,ochib berish
+direction,yo'nalish
+weapon,qurol
+employee,xodim
+cultural,madaniy
+contain,o'z ichiga oladi
+peace,tinchlik
+pain,og'riq
+apply,murojaat qilish
+measure,o'lchov
+wide,keng
+shake,silkit
+fly,pashsha
+interview,intervyu
+manage,boshqarish
+chair,kafedra
+fish,baliq
+particular,xususan
+camera,kamera
+structure,tuzilishi
+politics,siyosat
+perform,ijro etish
+bit,bit
+weight,vazn
+suddenly,to'satdan
+discover,kashf qilish
+candidate,nomzod
+production,ishlab chiqarish
+treat,davolash
+trip,sayohat
+evening,oqshom
+affect,ta'sir qilish
+inside,ichida
+conference,konferensiya
+unit,birlik
+style,uslub
+adult,kattalar
+worry,tashvishlaning
+range,oralig'i
+mention,zikr qilish
+deep,chuqur
+edge,chekka
+specific,aniq
+writer,yozuvchi
+trouble,muammo
+necessary,zarur
+throughout,davomida
+challenge,qiyinchilik
+fear,qo'rquv
+shoulder,yelka
+institution,muassasa
+middle,o'rta
+sea,dengiz
+dream,orzu qilish
+bar,bar
+beautiful,chiroyli
+property,mulk
+instead,o'rniga
+improve,yaxshilash
+stuff,narsalar
+detail,tafsilot
+method,usul
+somebody,kimdir
+magazine,jurnal
+hotel,mehmonxona
+soldier,askar
+reflect,aks ettirish
+heavy,og'ir
+sexual,jinsiy
+bag,sumka
+heat,issiqlik
+marriage,nikoh
+tough,qattiq
+sing,qo'shiq ayt
+surface,sirt
+purpose,maqsad
+exist,mavjud
+pattern,naqsh
+whom,kim
+skin,teri
+agent,agent
+owner,egasi
+machine,mashina
+gas,gaz
+ahead,oldinda
+generation,avlod
+commercial,tijorat
+address,manzil
+cancer,saraton
+item,element
+reality,haqiqat
+coach,murabbiy
+Mrs,Xonim
+yard,hovli
+beat,mag'lub etish
+violence,zo'ravonlik
+total,jami
+tend,moyillik
+investment,sarmoya
+discussion,munozara
+finger,barmoq
+garden,bog '
+notice,e'tibor bering
+collection,to'plam
+modern,zamonaviy
+task,vazifa
+partner,sherik
+positive,ijobiy
+civil,fuqarolik
+kitchen,oshxona
+consumer,iste'molchi
+shot,otilgan
+budget,byudjet
+wish,tilak
+painting,rasm
+scientist,olim
+safe,xavfsiz
+agreement,kelishuv
+capital,poytaxt
+mouth,og'iz
+nor,na
+victim,jabrlanuvchi
+newspaper,gazeta
+threat,tahdid
+responsibility,javobgarlik
+smile,tabassum
+attorney,advokat
+score,Xol
+account,hisob qaydnomasi
+interesting,qiziqarli
+audience,tomoshabinlar
+rich,boy
+dinner,kechki ovqat
+vote,ovoz berish
+western,g'arbiy
+relate,aloqador
+travel,sayohat
+debate,munozara
+prevent,oldini olish
+citizen,fuqaro
+majority,ko'pchilik
+none,yo'q
+front,old
+born,tug'ilgan
+admit,tan olish
+senior,katta
+assume,taxmin qilmoq
+wind,shamol
+key,kalit
+professional,professional
+mission,missiya
+fast,tez
+alone,yolg'iz
+customer,mijoz
+suffer,azob chekish
+speech,nutq
+successful,omadli
+option,variant
+participant,ishtirokchi
+southern,Janubiy
+fresh,yangi
+eventually,oxir-oqibat
+forest,o'rmon
+video,video
+global,global
+Senate,Senat
+reform,islohot
+access,kirish
+restaurant,restoran
+judge,sudya
+publish,nashr etish
+relation,munosabat
+release,ozod qilish
+bird,qush
+opinion,fikr
+credit,kredit
+critical,tanqidiy
+corner,burchak
+concerned,manfaatdor
+recall,eslash
+version,versiyasi
+stare,qarash
+safety,xavfsizlik
+effective,samarali
+neighborhood,Turar joy dahasi
+original,original
+troop,qo'shin
+income,daromad
+directly,to'g'ridan-to'g'ri
+hurt,zarar
+species,turlari
+immediately,darhol
+track,trek
+basic,Asosiy
+strike,urish
+sky,osmon
+freedom,erkinlik
+absolutely,mutlaqo
+plane,samolyot
+nobody,hech kim
+achieve,erishish
+object,ob'ekt
+attitude,munosabat
+labor,mehnat
+refer,murojaat qiling
+concept,kontseptsiya
+client,mijoz
+powerful,kuchli
+perfect,mukammal
+nine,to'qqiz
+therefore,shuning uchun
+conduct,xulq-atvor
+announce,e'lon qilish
+conversation,suhbat
+examine,Imtihon
+touch,teginish
+please,Iltimos
+attend,qatnashmoq
+completely,to'liq
+variety,xilma-xillik
+sleep,uxlash
+involved,jalb qilingan
+investigation,tergov
+nuclear,yadroviy
+researcher,tadqiqotchi
+press,bosing
+conflict,ziddiyat
+spirit,ruh
+replace,almashtirish
+British,Inglizlar
+encourage,rag'batlantirish
+argument,dalil
+camp,lager
+brain,miya
+feature,xususiyati
+afternoon,peshindan keyin
+AM,AM
+weekend,dam olish kunlari
+dozen,o'nlab
+possibility,imkoniyat
+insurance,sug'urta
+department,Bo'lim
+battle,jang
+beginning,boshlanishi
+date,sana
+generally,umuman
+African,Afrika
+sorry,uzr
+crisis,inqiroz
+complete,to'liq
+fan,muxlis
+stick,tayoq
+define,aniqlang
+easily,osonlik bilan
+hole,teshik
+element,element
+vision,ko'rish
+status,holat
+normal,normal
+Chinese,Xitoy
+ship,kema
+solution,yechim
+stone,tosh
+slowly,sekin
+scale,o'lchov
+university,universitet
+introduce,tanishtirmoq
+driver,haydovchi
+attempt,urinish
+park,park
+spot,dog '
+lack,etishmaslik
+ice,muz
+boat,qayiq
+drink,ichish
+sun,quyosh
+distance,masofa
+wood,yog'och
+handle,tutqich
+truck,yuk mashinasi
+mountain,tog
+survey,tadqiqot
+supposed,taxmin qilingan
+tradition,an'ana
+winter,qish
+village,qishloq
+Soviet,Sovet
+refuse,rad etish
+sales,sotish
+roll,rulon
+communication,aloqa
+screen,ekran
+gain,daromad
+resident,rezident
+hide,yashirish
+gold,oltin
+club,klub
+farm,ferma
+potential,salohiyat
+European,Evropa
+presence,mavjudlik
+independent,mustaqil
+district,tuman
+shape,shakli
+reader,o'quvchi
+Ms,Xonim
+contract,shartnoma
+crowd,olomon
+Christian,Nasroniy
+express,ifoda eting
+apartment,kvartira
+willing,tayyor
+strength,kuch
+previous,oldingi
+band,guruh
+obviously,aniq
+horse,ot
+interested,manfaatdor
+target,nishon
+prison,qamoqxona
+ride,minmoq
+guard,qo'riqchi
+terms,shartlar
+demand,talab
+reporter,muxbir
+deliver,etkazib berish
+text,matn
+tool,vosita
+wild,yovvoyi
+vehicle,transport vositasi
+observe,kuzatmoq
+flight,parvoz
+facility,qulaylik
+understanding,tushunish
+average,o'rtacha
+emerge,paydo bo'lish
+advantage,afzallik
+quick,tez
+leadership,etakchilik
+earn,ishlab topmoq
+pound,funt
+basis,asos
+bright,yorqin
+operate,ishlash
+guest,mehmon
+sample,namuna
+contribute,hissa qo'shmoq
+tiny,mayda
+block,blokirovka qilish
+protection,himoya qilish
+settle,joylashmoq
+feed,ozuqa
+collect,yig'moq
+additional,qo'shimcha
+highly,juda yuqori
+identity,shaxsiyat
+title,sarlavha
+mostly,asosan
+lesson,dars
+faith,imon
+river,daryo
+promote,targ'ib qilish
+living,yashash
+count,hisoblash
+unless,agar bo'lmasa
+marry,uylanmoq
+tomorrow,ertaga
+technique,texnika
+path,yo'l
+ear,quloq
+shop,do'kon
+folk,xalq
+principle,tamoyil
+survive,omon qolish
+lift,ko'tarish
+border,chegara
+competition,musobaqa
+jump,sakramoq
+gather,yig'moq
+limit,chegara
+fit,mos
+cry,yig'lamoq
+equipment,uskunalar
+worth,arziydi
+associate,sherik
+critic,tanqidchi
+warm,iliq
+aspect,jihat
+insist,turib olish
+failure,muvaffaqiyatsizlik
+annual,yillik
+French,Frantsuz
+Christmas,Rojdestvo
+comment,sharh
+responsible,javobgar
+affair,ish
+procedure,protsedura
+regular,muntazam
+spread,tarqalish
+chairman,rais
+baseball,beysbol
+soft,yumshoq
+ignore,e'tiborsiz qoldiring
+egg,tuxum
+belief,e'tiqod
+demonstrate,namoyish qilmoq
+anybody,hech kim
+murder,qotillik
+gift,sovg'a
+religion,din
+review,ko'rib chiqish
+editor,muharriri
+engage,shug'ullanmoq
+coffee,kofe
+document,hujjat
+speed,tezlik
+cross,kesib o'tish
+influence,ta'sir
+anyway,nima bo'lganda ham
+threaten,tahdid qilmoq
+commit,qilmoq
+female,ayol
+youth,yoshlar
+wave,to'lqin
+afraid,qo'rqaman
+quarter,chorak
+background,fon
+native,tug'ma
+broad,keng
+wonderful,ajoyib
+deny,rad etish
+apparently,aftidan
+slightly,ozgina
+reaction,reaktsiya
+twice,ikki marta
+suit,kostyum
+perspective,istiqbol
+growing,o'sib borayotgan
+blow,puflamoq
+construction,qurilish
+intelligence,aql-idrok
+destroy,yo'q qilish
+cook,pishirish
+connection,ulanish
+burn,kuyish
+shoe,poyabzal
+grade,sinf
+context,kontekst
+committee,qo'mita
+hey,hey
+mistake,Xato
+location,Manzil
+clothes,kiyim-kechak
+Indian,Hind
+quiet,tinch
+dress,kiyinish
+promise,va'da
+aware,xabardor
+neighbor,qo'shni
+function,funktsiya
+bone,suyak
+active,faol
+extend,uzaytirish
+chief,boshliq
+combine,aralashtirmoq
+wine,vino
+below,quyida
+cool,salqin
+voter,saylovchi
+learning,o'rganish
+bus,avtobus
+hell,jahannam
+dangerous,xavfli
+remind,eslatmoq
+moral,ahloqiy
+United,Birlashgan
+category,toifasi
+relatively,nisbatan
+victory,g'alaba
+academic,akademik
+Internet,Internet
+healthy,sog'lom
+negative,salbiy
+following,quyidagi
+historical,tarixiy
+medicine,Dori
+tour,ekskursiya
+depend,bog'liq
+photo,fotosurat
+finding,topish
+grab,qatnashmoq
+direct,to'g'ridan-to'g'ri
+classroom,sinf
+contact,aloqa
+justice,adolat
+participate,ishtirok etish
+daily,har kuni
+fair,adolatli
+pair,juftlik
+famous,mashhur
+exercise,jismoniy mashqlar
+knee,tizza
+flower,gul
+tape,lenta
+hire,yollash
+familiar,tanish
+appropriate,muvofiq
+supply,ta'minot
+fully,to'liq
+actor,aktyor
+birth,tug'ilish
+search,qidirmoq
+tie,taqish
+democracy,demokratiya
+eastern,sharqiy
+primary,birlamchi
+yesterday,kecha
+circle,doira
+device,qurilma
+progress,taraqqiyot
+bottom,pastki
+island,orol
+exchange,almashish
+clean,toza
+studio,studiya
+train,poezd
+lady,xonim
+colleague,hamkasb
+application,dastur
+neck,bo'yin
+lean,oriq
+damage,zarar
+plastic,plastik
+tall,uzun bo'yli
+plate,plastinka
+hate,nafrat
+otherwise,aks holda
+writing,yozish
+male,erkak
+alive,tirik
+expression,ifoda
+football,futbol
+intend,niyat qilmoq
+chicken,tovuq
+army,armiya
+abuse,suiiste'mol qilish
+theater,teatr
+shut,yoping
+map,xarita
+extra,qo'shimcha
+session,sessiya
+danger,Xavfli
+welcome,xush kelibsiz
+domestic,ichki
+lots,ko'p
+literature,adabiyot
+rain,yomg'ir
+desire,istak
+assessment,baholash
+injury,shikastlanish
+respect,hurmat
+northern,shimoliy
+nod,bosh irg'ash
+paint,bo'yamoq
+fuel,yoqilg'i
+leaf,barg
+dry,quruq
+Russian,Ruscha
+instruction,ko'rsatma
+pool,basseyn
+climb,ko'tarilish
+sweet,shirin
+engine,dvigatel
+fourth,to'rtinchi
+salt,tuz
+expand,kengaytirish
+importance,ahamiyati
+metal,metall
+fat,yog '
+ticket,chipta
+software,dasturiy ta'minot
+disappear,g'oyib bo'lish
+corporate,korporativ
+strange,g'alati
+lip,lab
+reading,o'qish
+urban,shahar
+mental,aqliy
+increasingly,borgan sari
+lunch,tushlik
+educational,tarbiyaviy
+somewhere,biron bir joyda
+farmer,dehqon
+sugar,shakar
+planet,sayyora
+favorite,sevimli
+explore,o'rganmoq
+obtain,olish
+enemy,dushman
+greatest,eng buyuk
+complex,murakkab
+surround,o'rab olish
+athlete,sportchi
+invite,taklif qiling
+repeat,takrorlang
+carefully,ehtiyotkorlik bilan
+soul,jon
+scientific,ilmiy
+impossible,imkonsiz
+panel,panel
+meaning,ma'no
+mom,onam
+married,uylangan
+instrument,asbob
+predict,bashorat qilish
+weather,ob-havo
+presidential,prezidentlik
+emotional,hissiy
+commitment,majburiyat
+Supreme,Oliy
+bear,ayiq
+pocket,cho'ntak
+thin,ingichka
+temperature,harorat
+surprise,ajablanib
+poll,so'rovnoma
+proposal,taklif
+consequence,oqibat
+breath,nafas
+sight,ko'rish
+balance,muvozanat
+adopt,asrab olish
+minority,ozchilik
+straight,To'g'riga
+connect,ulanmoq
+works,ishlaydi
+teaching,o'qitish
+belong,tegishli
+aid,yordam
+advice,maslahat
+okay,xop
+photograph,fotosurat
+empty,bo'sh
+regional,mintaqaviy
+trail,iz
+novel,roman
+code,kod
+somehow,qandaydir tarzda
+organize,tashkil qilish
+jury,hakamlar hay'ati
+breast,ko'krak
+Iraqi,Iroq
+acknowledge,tan olish
+theme,mavzu
+storm,bo'ron
+union,birlashma
+desk,stol
+thanks,rahmat
+fruit,meva
+expensive,qimmat
+yellow,sariq
+conclusion,xulosa
+prime,asosiy
+shadow,soya
+struggle,kurash
+conclude,xulosa qilish
+analyst,tahlilchi
+dance,raqs
+regulation,tartibga solish
+being,bo'lish
+ring,uzuk
+largely,asosan
+shift,siljish
+revenue,daromad
+mark,belgi
+locate,topmoq
+county,okrug
+appearance,tashqi ko'rinish
+package,paket
+difficulty,qiyinchilik
+bridge,ko'prik
+recommend,tavsiya eting
+obvious,aniq
+basically,asosan
+e-mail,elektron pochta
+generate,yaratish
+anymore,endi
+propose,taklif qilmoq
+thinking,fikrlash
+possibly,ehtimol
+trend,trend
+visitor,Mehmon
+loan,kredit
+currently,hozirda
+comfortable,qulay
+investor,investor
+profit,foyda
+angry,badjahl
+crew,ekipaj
+accident,baxtsiz hodisa
+meal,ovqat
+hearing,eshitish
+traffic,tirbandlik
+muscle,muskul
+notion,tushunchasi
+capture,qo'lga olish
+prefer,afzal
+truly,haqiqatan ham
+earth,er
+Japanese,Yapon
+chest,ko'krak qafasi
+thick,qalin
+cash,naqd pul
+museum,muzey
+beauty,go'zallik
+emergency,favqulodda vaziyat
+unique,noyob
+internal,ichki
+ethnic,etnik
+link,havola
+stress,stress
+content,tarkib
+select,tanlang
+root,ildiz
+nose,burun
+declare,e'lon qiling
+appreciate,qadrlayman
+actual,haqiqiy
+bottle,shisha
+hardly,deyarli emas
+setting,sozlash
+launch,ishga tushirish
+file,fayl
+sick,kasal
+outcome,natija
+ad,reklama
+defend,himoya qilmoq
+duty,burch
+sheet,varaq
+ought,kerak
+ensure,ta'minlash
+Catholic,Katolik
+extremely,nihoyatda
+extent,darajada
+component,komponent
+mix,aralashtiramiz
+long-term,Uzoq muddat
+slow,sekin
+contrast,qarama-qarshilik
+zone,zona
+wake,uyg'onish
+airport,aeroport
+brown,jigarrang
+shirt,ko'ylak
+pilot,uchuvchi
+warn,ogohlantiring
+ultimately,oxir-oqibat
+cat,mushuk
+contribution,hissa
+capacity,imkoniyatlar
+ourselves,o'zimiz
+estate,mulk
+guide,qo'llanma
+circumstance,holat
+snow,qor
+English,Ingliz tili
+politician,siyosatchi
+steal,o'g'irlash
+pursue,ta'qib qilish
+slip,sirpanish
+percentage,foiz
+meat,go'sht
+funny,kulgili
+neither,na
+soil,tuproq
+surgery,jarrohlik
+correct,to'g'ri
+Jewish,Yahudiy
+blame,ayb
+estimate,smeta
+due,tufayli
+basketball,basketbol
+golf,golf
+investigate,tergov qilish
+crazy,aqldan ozgan
+significantly,sezilarli darajada
+chain,zanjir
+branch,filial
+combination,kombinatsiya
+frequently,tez-tez
+governor,hokim
+relief,yengillik
+user,foydalanuvchi
+dad,ota
+kick,tepish
+manner,uslub
+ancient,qadimiy
+silence,sukunat
+rating,reyting
+golden,oltin
+motion,harakat
+German,Nemis
+gender,jins
+solve,hal qilish
+fee,haq
+landscape,manzara
+used,ishlatilgan
+bowl,kosa
+equal,teng
+forth,oldinga
+frame,ramka
+typical,tipik
+except,bundan mustasno
+conservative,konservativ
+eliminate,yo'q qilish
+host,mezbon
+hall,zal
+trust,ishonch
+ocean,okean
+row,qator
+producer,ishlab chiqaruvchi
+afford,imkoni bor
+meanwhile,bu orada
+regime,tartib
+division,bo'linish
+confirm,tasdiqlang
+fix,tuzatish
+appeal,Shikoyat qilish
+mirror,oyna
+tooth,tish
+smart,aqlli
+length,uzunlik
+entirely,butunlay
+rely,ishonmoq
+topic,mavzu
+complain,shikoyat qilish
+variable,o'zgaruvchan
+telephone,telefon
+perception,idrok
+attract,jalb qilmoq
+confidence,ishonch
+bedroom,yotoq xonasi
+secret,sir
+debt,qarz
+rare,kamdan-kam
+tank,tank
+nurse,hamshira
+coverage,qamrov
+opposition,muxolifat
+aside,chetga
+anywhere,har qanday joyda
+bond,bog'lanish
+pleasure,zavq
+master,usta
+era,davr
+requirement,talab
+fun,qiziqarli
+expectation,kutish
+wing,qanot
+separate,alohida
+somewhat,bir oz
+pour,to'kib tashlang
+stir,aralashtiramiz
+judgment,hukm
+beer,pivo
+reference,ma'lumotnoma
+tear,ko'z yoshi
+doubt,shubha
+grant,grant
+seriously,jiddiy
+minister,vazir
+totally,umuman
+hero,qahramon
+industrial,sanoat
+cloud,bulut
+stretch,cho'zish
+winner,g'olib
+volume,hajmi
+seed,urug '
+surprised,hayron qoldi
+fashion,moda
+pepper,Qalapmir
+busy,band
+intervention,aralashuv
+copy,nusxa ko'chirish
+tip,uchi
+cheap,arzon
+aim,maqsad
+cite,keltirish
+welfare,farovonlik
+vegetable,sabzavot
+gray,kulrang
+dish,taom
+beach,plyaj
+improvement,takomillashtirish
+everywhere,hamma joyda
+opening,ochilish
+overall,umuman olganda
+divide,bo'lmoq
+initial,boshlang'ich
+terrible,qo'rqinchli
+oppose,qarshi chiqish
+contemporary,zamonaviy
+route,marshrut
+multiple,bir nechta
+essential,muhim
+league,liga
+criminal,jinoyatchi
+careful,ehtiyot bo'ling
+core,yadro
+upper,yuqori
+rush,shoshiling
+necessarily,albatta
+specifically,xususan
+tired,charchagan
+employ,ishga joylashtirmoq
+holiday,bayram
+vast,ulkan
+resolution,qaror
+household,uy xo'jaligi
+fewer,kamroq
+abortion,abort
+apart,alohida
+witness,guvoh
+match,o'yin
+barely,zo'rg'a
+sector,sektor
+representative,vakil
+beneath,ostida
+beside,yonida
+incident,voqea
+limited,cheklangan
+proud,mag'rur
+flow,oqim
+faculty,fakultet
+increased,ortdi
+waste,chiqindilar
+merely,shunchaki
+mass,massa
+emphasize,ta'kidlash
+experiment,tajriba
+definitely,albatta
+bomb,bomba
+enormous,juda katta
+tone,ohang
+liberal,liberal
+massive,katta
+engineer,muhandis
+wheel,g'ildirak
+decline,pasayish
+invest,sarmoya kiritish
+cable,kabel
+towards,tomonga
+expose,fosh qilmoq
+rural,qishloq
+AIDS,OITS
+Jew,Yahudiy
+narrow,tor
+cream,qaymoq
+secretary,kotib
+gate,Darvoza
+solid,qattiq
+hill,tepalik
+typically,odatda
+noise,shovqin
+grass,o't
+unfortunately,afsuski
+hat,shapka
+legislation,qonunchilik
+succeed,muvaffaqiyatga erishish
+celebrate,nishonlamoq
+achievement,muvaffaqiyat
+fishing,baliq ovlash
+accuse,ayblash
+useful,foydali
+reject,rad etish
+talent,iste'dod
+taste,ta'mi
+characteristic,xarakterli
+milk,sut
+escape,qochish
+cast,gips
+sentence,hukm
+unusual,g'ayrioddiy
+closely,yaqindan
+convince,ishontirish
+height,balandlik
+physician,shifokor
+assess,baholash
+plenty,mo'l-ko'l
+virtually,deyarli
+addition,qo'shimcha
+sharp,o'tkir
+creative,ijodiy
+lower,pastroq
+approve,tasdiqlash
+explanation,tushuntirish
+gay,gomoseksual
+campus,talabalar shaharchasi
+proper,to'g'ri
+guilty,aybdor
+acquire,sotib olmoq
+compete,raqobatlashmoq
+technical,texnik
+plus,ortiqcha
+immigrant,muhojir
+weak,zaif
+illegal,noqonuniy
+hi,salom
+alternative,muqobil
+interaction,o'zaro ta'sir
+column,ustun
+personality,shaxsiyat
+signal,signal
+curriculum,o'quv dasturi
+honor,sharaf
+passenger,yo'lovchi
+assistance,yordam
+forever,abadiy
+regard,e'tibor
+Israeli,Isroil
+association,uyushma
+twenty,yigirma
+knock,taqillatish
+wrap,o'rash
+lab,laboratoriya
+display,displey
+criticism,tanqid
+asset,aktiv
+depression,depressiya
+spiritual,ma'naviy
+musical,musiqiy
+journalist,jurnalist
+prayer,ibodat
+suspect,shubhali
+scholar,olim
+warning,ogohlantirish
+climate,iqlim
+cheese,pishloq
+observation,kuzatuv
+childhood,bolalik
+payment,to'lov
+sir,janob
+permit,ruxsatnoma
+cigarette,sigaret
+definition,ta'rifi
+priority,ustuvorlik
+bread,non
+creation,yaratish
+graduate,bitirmoq
+request,so'rov
+emotion,hissiyot
+scream,qichqiriq
+dramatic,dramatik
+universe,koinot
+gap,bo'shliq
+excellent,zo'r
+deeply,chuqur
+prosecutor,prokuror
+lucky,baxtli
+drag,sudrab torting
+airline,aviakompaniya
+library,kutubxona
+agenda,kun tartibi
+recover,tiklanmoq
+factory,zavod
+selection,tanlov
+primarily,birinchi navbatda
+roof,tom
+unable,qodir emas
+expense,xarajatlar
+initiative,tashabbus
+diet,parhez
+arrest,hibsga olish
+funding,mablag '
+therapy,terapiya
+wash,yuvish
+schedule,jadval
+sad,qayg'uli
+brief,qisqacha
+housing,uy-joy
+post,post
+purchase,sotib olish
+existing,mavjud
+steel,po'lat
+regarding,bilan bog'liq
+shout,baqir
+remaining,qolgan
+visual,ingl
+fairly,odilona
+chip,chip
+violent,zo'ravonlik
+silent,jim
+suppose,taxmin qilaylik
+self,o'zini o'zi
+bike,velosiped
+tea,choy
+perceive,sezmoq
+comparison,taqqoslash
+settlement,turar-joy
+layer,qatlam
+planning,rejalashtirish
+description,tavsif
+slide,slayd
+widely,keng
+wedding,to'y
+inform,xabar berish
+portion,qism
+territory,hudud
+immediate,darhol
+opponent,raqib
+abandon,tark etish
+lake,ko'l
+transform,o'zgartirish
+tension,kuchlanish
+leading,etakchi
+bother,bezovta qil
+consist,iborat
+alcohol,spirtli ichimliklar
+enable,yoqish
+bend,egil
+saving,tejash
+desert,cho'l
+shall,kerak
+error,xato
+cop,politsiyachi
+Arab,Arab
+double,ikki baravar
+sand,qum
+Spanish,Ispaniya
+print,chop etish
+preserve,saqlamoq
+passage,o'tish joyi
+formal,rasmiy
+transition,o'tish
+existence,mavjudlik
+album,albom
+participation,ishtirok etish
+arrange,tartibga solish
+atmosphere,atmosfera
+joint,qo'shma
+reply,javob
+cycle,tsikl
+opposite,qarama-qarshi
+lock,qulflash
+deserve,loyiq
+consistent,izchil
+resistance,qarshilik
+discovery,kashfiyot
+exposure,chalinish xavfi
+pose,pozitsiya
+stream,oqim
+sale,sotish
+pot,qozon
+grand,katta
+mine,meniki
+hello,Salom
+coalition,koalitsiya
+tale,ertak
+knife,pichoq
+resolve,hal qilish
+racial,irqiy
+phase,bosqich
+joke,hazil
+coat,palto
+Mexican,Meksikalik
+symptom,simptom
+manufacturer,ishlab chiqaruvchi
+philosophy,falsafa
+potato,kartoshka
+foundation,poydevor
+quote,tirnoq
+online,onlayn
+negotiation,muzokara
+urge,da'vat
+occasion,imkoniyat
+dust,chang
+breathe,nafas oling
+elect,saylamoq
+investigator,tergovchi
+jacket,ko'ylagi
+glad,xursandman
+ordinary,oddiy
+reduction,kamaytirish
+rarely,kamdan-kam hollarda
+pack,qadoqlash
+suicide,o'z joniga qasd qilish
+numerous,juda ko'p
+substance,modda
+discipline,intizom
+elsewhere,boshqa joyda
+iron,temir
+practical,amaliy
+moreover,bundan tashqari
+passion,ehtiros
+volunteer,ko'ngilli
+implement,amalga oshirish
+essentially,mohiyatan
+gene,gen
+enforcement,ijro etish
+vs,va boshqalar
+sauce,sous
+independence,mustaqillik
+marketing,marketing
+priest,ruhoniy
+amazing,ajoyib
+intense,kuchli
+advance,oldinga
+employer,ish beruvchi
+shock,zarba
+inspire,ilhomlantirmoq
+adjust,sozlash
+retire,nafaqaga
+visible,ko'rinadigan
+kiss,o'pish
+illness,kasallik
+cap,qopqoq
+habit,odat
+competitive,raqobatdosh
+juice,sharbat
+congressional,Kongress
+involvement,ishtirok etish
+dominate,hukmronlik qilish
+previously,ilgari
+whenever,har doim
+transfer,o'tkazish
+analyze,tahlil qilish
+attach,biriktirmoq
+disaster,falokat
+parking,avtoturargoh
+prospect,istiqbol
+boss,boshliq
+complaint,shikoyat
+championship,chempionat
+fundamental,asosiy
+severe,og'ir
+enhance,oshirish
+mystery,sir
+impose,yuklamoq
+poverty,qashshoqlik
+entry,kirish
+spending,sarflash
+king,shoh
+evaluate,baholash
+symbol,belgi
+maker,ishlab chiqaruvchi
+mood,kayfiyat
+accomplish,amalga oshirish
+emphasis,urg'u
+illustrate,tasvirlash
+boot,yuklash
+monitor,monitor
+Asian,Osiyo
+entertainment,o'yin-kulgi
+bean,loviya
+evaluation,baholash
+creature,maxluq
+commander,qo'mondon
+digital,raqamli
+arrangement,tartibga solish
+concentrate,konsentrat
+usual,odatiy
+anger,g'azab
+psychological,psixologik
+heavily,og'ir
+peak,tepalik
+approximately,taxminan
+increasing,ortib bormoqda
+disorder,tartibsizlik
+missile,raketa
+equally,teng darajada
+vary,farq qiladi
+wire,sim
+round,dumaloq
+distribution,tarqatish
+transportation,transport
+holy,muqaddas
+twin,egizak
+command,buyruq
+commission,komissiya
+interpretation,talqin
+breakfast,nonushta
+strongly,kuchli
+engineering,muhandislik
+luck,omad
+so-called,deb nomlangan
+constant,doimiy
+clinic,klinika
+veteran,faxriy
+smell,hid
+tablespoon,osh qoshiq
+capable,qobiliyatli
+nervous,asabiy
+tourist,sayyoh
+toss,otish
+crucial,hal qiluvchi
+bury,dafn qilmoq
+pray,ibodat qiling
+tomato,pomidor
+exception,istisno
+butter,sariyog '
+deficit,defitsit
+bathroom,hammom
+objective,ob'ektiv
+electronic,elektron
+ally,ittifoqchi
+journey,sayohat
+reputation,obro'-e'tibor
+mixture,aralash
+surely,albatta
+tower,minora
+smoke,tutun
+confront,to'qnashmoq
+pure,toza
+glance,qarash
+dimension,o'lchov
+toy,o'yinchoq
+prisoner,mahbus
+fellow,o'rtoq
+smooth,silliq
+nearby,yaqin
+peer,tengdosh
+designer,dizayner
+personnel,xodimlar
+educator,tarbiyachi
+relative,nisbiy
+immigration,immigratsiya
+belt,kamar
+teaspoon,choy qoshiq
+birthday,tug'ilgan kun
+implication,xulosa
+perfectly,Mukammal
+coast,qirg'oq
+supporter,qo'llab-quvvatlovchi
+accompany,hamrohlik qilish
+silver,kumush
+teenager,o'spirin
+recognition,tan olish
+retirement,iste'fo
+flag,bayroq
+recovery,tiklanish
+whisper,pichirlash
+gentleman,janob
+corn,makkajo'xori
+moon,oy
+inner,ichki
+junior,kichik
+throat,tomoq
+salary,ish haqi
+swing,belanchak
+observer,kuzatuvchi
+publication,nashr
+crop,hosil
+dig,qazish
+permanent,doimiy
+phenomenon,hodisa
+anxiety,tashvish
+unlike,farqli o'laroq
+wet,ho'l
+literally,so'zma-so'z
+resist,qarshilik ko'rsatish
+convention,anjuman
+embrace,quchoqlamoq
+assist,yordam berish
+exhibition,ko'rgazma
+construct,qurish
+viewer,tomoshabin
+pan,pan
+consultant,maslahatchi
+administrator,ma'mur
+occasionally,vaqti-vaqti bilan
+mayor,shahar hokimi
+consideration,ko'rib chiqish
+CEO,Bosh ijrochi direktor
+secure,xavfsiz
+pink,pushti
+buck,buk
+historic,tarixiy
+poem,she'r
+grandmother,buvi
+bind,bog'lash
+fifth,beshinchi
+constantly,doimiy ravishda
+enterprise,korxona
+favor,yaxshilik
+testing,sinov
+stomach,oshqozon
+apparent,aniq
+weigh,tortmoq
+install,o'rnatish
+sensitive,sezgir
+suggestion,taklif
+mail,pochta
+recipe,retsept
+reasonable,oqilona
+preparation,tayyorgarlik
+wooden,yog'och
+elementary,boshlang'ich
+concert,konsert
+aggressive,tajovuzkor
+False,Yolg'on
+intention,niyat
+channel,kanal
+extreme,haddan tashqari
+tube,naycha
+drawing,rasm chizish
+protein,oqsil
+quit,chiqish
+absence,yo'qlik
+Latin,Lotin
+rapidly,tez
+jail,qamoq
+diversity,xilma-xillik
+honest,halol
+Palestinian,Falastin
+pace,sur'at
+employment,ish bilan ta'minlash
+speaker,ma'ruzachi
+impression,taassurot
+essay,insho
+respondent,javob beruvchi
+giant,ulkan
+cake,tort
+historian,tarixchi
+negotiate,muzokara olib borish
+restore,tiklash
+substantial,muhim
+pop,pop
+specialist,mutaxassis
+origin,kelib chiqishi
+approval,tasdiqlash
+quietly,sekin
+advise,maslahat bering
+conventional,an'anaviy
+depth,chuqurlik
+wealth,boylik
+disability,nogironlik
+shell,qobiq
+criticize,tanqid qilmoq
+effectively,samarali
+biological,biologik
+onion,piyoz
+deputy,deputat
+flat,yassi
+brand,tovar belgisi
+assure,ishontirish
+mad,Telba
+award,mukofot
+criteria,mezonlar
+dealer,diler
+via,orqali
+utility,qulaylik
+precisely,aniq
+arise,paydo bo'lish
+armed,qurollangan
+nevertheless,baribir
+highway,magistral yo'l
+clinical,klinik
+routine,muntazam
+wage,ish haqi
+normally,odatda
+phrase,ibora
+ingredient,ingredient
+stake,qoziq
+Muslim,Musulmon
+fiber,tola
+activist,faol
+Islamic,Islomiy
+snap,tez
+terrorism,terrorizm
+refugee,qochoq
+incorporate,qo'shmoq
+hip,kestirib
+ultimate,yakuniy
+switch,almashtirish
+corporation,korporatsiya
+valuable,qimmatli
+assumption,taxmin
+gear,vites
+barrier,to'siq
+minor,voyaga etmagan
+provision,ta'minot
+killer,qotil
+assign,tayinlamoq
+gang,to'da
+developing,rivojlanmoqda
+classic,klassik
+chemical,kimyoviy
+label,yorliq
+teen,o'spirin
+index,indeks
+vacation,ta'til
+advocate,advokat
+draft,qoralama
+extraordinary,ajoyib
+heaven,jannat
+rough,qo'pol
+yell,baqirmoq
+pregnant,homilador
+distant,uzoq
+drama,drama
+satellite,sun'iy yo'ldosh
+personally,shaxsan
+clock,soat
+chocolate,shokolad
+Italian,Italyancha
+Canadian,Kanadalik
+ceiling,ship
+sweep,supurish
+advertising,reklama
+universal,universal
+spin,aylantirish
+button,tugmasi
+bell,qo'ng'iroq
+rank,daraja
+darkness,zulmat
+clothing,kiyim-kechak
+super,super
+yield,Yo'l bering
+fence,panjara
+portrait,portret
+survival,omon qolish
+roughly,taxminan
+lawsuit,sud jarayoni
+testimony,guvohlik
+bunch,shamlardan
+found,topildi
+burden,yuk
+react,reaktsiya berish
+chamber,kamera
+furniture,mebel
+cooperation,hamkorlik
+string,mag'lubiyat
+ceremony,marosim
+communicate,muloqot qilish
+cheek,yonoq
+lost,yo'qolgan
+profile,profil
+mechanism,mexanizm
+disagree,rozi emas
+penalty,jarima
+ie,ya'ni
+resort,kurort
+destruction,yo'q qilish
+unlikely,ehtimoldan yiroq
+tissue,to'qima
+constitutional,konstitutsiyaviy
+pant,shim
+stranger,begona
+infection,infektsiya
+cabinet,kabinet
+broken,singan
+apple,olma
+electric,elektr
+proceed,davom eting
+bet,garov
+literary,adabiy
+virus,virus
+stupid,ahmoq
+dispute,nizo
+fortune,boylik
+strategic,strategik
+assistant,yordamchi
+overcome,yengish
+remarkable,ajoyib
+occupy,egallamoq
+statistics,statistika
+shopping,xarid qilish
+cousin,amakivachcha
+encounter,uchrashmoq
+wipe,arting
+initially,dastlab
+blind,ko'r
+port,port
+electricity,elektr energiyasi
+genetic,genetik
+adviser,maslahatchi
+spokesman,vakili
+retain,saqlamoq
+latter,ikkinchisi
+incentive,rag'batlantirish
+slave,qul
+translate,tarjima qilish
+accurate,aniq
+whereas,Holbuki
+terror,terror
+expansion,kengayish
+elite,elita
+Olympic,Olimpiya o'yinlari
+dirt,axloqsizlik
+odd,g'alati
+rice,guruch
+bullet,o'q
+tight,qattiq
+Bible,Injil
+chart,jadval
+solar,quyosh
+square,kvadrat
+concentration,diqqat
+complicated,murakkab
+gently,muloyimlik bilan
+champion,chempion
+scenario,stsenariy
+telescope,teleskop
+reflection,aks ettirish
+revolution,inqilob
+strip,Ip
+interpret,izohlash
+friendly,do'stona
+tournament,turnir
+fiction,fantastika
+detect,aniqlash
+tremendous,ulkan
+lifetime,muddat
+recommendation,tavsiya
+senator,senator
+hunting,ov qilish
+salad,salat
+guarantee,kafolat
+innocent,aybsiz
+boundary,chegara
+pause,pauza
+remote,uzoqdan
+satisfaction,qoniqish
+journal,jurnal
+bench,skameyka
+lover,sevgilisi
+raw,xom
+awareness,xabardorlik
+surprising,ajablanarli
+withdraw,chekinmoq
+deck,pastki
+similarly,xuddi shunday
+newly,Yangi
+pole,qutb
+testify,guvohlik bering
+mode,rejimi
+dialogue,dialog
+imply,nazarda tutmoq
+naturally,tabiiy ravishda
+mutual,o'zaro
+founder,asoschisi
+advanced,rivojlangan
+pride,mag'rurlik
+dismiss,ishdan bo'shatish
+aircraft,samolyot
+delivery,etkazib berish
+mainly,asosan
+bake,pishirish
+freeze,muzlash
+platform,platforma
+finance,Moliya
+sink,cho'kish
+attractive,jozibali
+diverse,xilma-xil
+relevant,muvofiq
+ideal,ideal
+joy,quvonch
+regularly,muntazam ravishda
+working,ishlaydigan
+singer,ashulachi
+evolve,rivojlanmoqda
+shooting,otish
+partly,qisman
+unknown,noma'lum
+offense,jinoyat
+counter,hisoblagich
+DNA,DNK
+potentially,potentsial
+thirty,o'ttiz
+justify,oqlash
+protest,norozilik
+crash,halokat
+craft,hunarmandchilik
+treaty,shartnoma
+terrorist,terrorchi
+insight,tushuncha
+possess,egalik qilmoq
+politically,siyosiy jihatdan
+tap,ga teging
+extensive,keng
+episode,epizod
+swim,suzish
+tire,shinalar
+fault,ayb
+loose,bo'shashgan
+shortly,qisqa vaqt ichida
+originally,dastlab
+considerable,sezilarli
+prior,oldin
+intellectual,intellektual
+assault,hujum
+relax,Rohatlaning
+stair,narvon
+adventure,sarguzasht
+external,tashqi
+proof,dalil
+confident,o'ziga ishongan
+headquarters,shtab-kvartirasi
+sudden,to'satdan
+dirty,iflos
+violation,buzilish
+tongue,til
+license,litsenziya
+shelter,boshpana
+rub,silamoq
+controversy,tortishuv
+entrance,Kirish
+properly,to'g'ri
+fade,xira
+defensive,mudofaa
+tragedy,fojia
+net,to'r
+characterize,xarakterlash
+funeral,dafn marosimi
+profession,kasb
+alter,o'zgartirish
+constitute,tashkil etadi
+establishment,muassasa
+squeeze,siqish
+imagination,tasavvur
+mask,niqob
+convert,aylantirish
+comprehensive,keng qamrovli
+prominent,taniqli
+presentation,taqdimot
+regardless,qat'i nazar
+load,yuk
+stable,barqaror
+introduction,kirish
+pretend,go'yo
+elderly,qariyalar
+representation,vakillik
+deer,kiyik
+split,Split
+violate,buzmoq
+partnership,hamkorlik
+pollution,ifloslanish
+emission,emissiya
+steady,barqaror
+vital,hayotiy
+fate,taqdir
+earnings,daromad
+oven,pech
+distinction,farqlash
+segment,segment
+nowhere,hech qaerda
+poet,shoir
+mere,shunchaki
+exciting,hayajonli
+variation,o'zgaruvchanlik
+comfort,qulaylik
+radical,radikal
+adapt,moslashmoq
+Irish,Irland
+honey,asal
+correspondent,muxbir
+pale,rangpar
+musician,musiqachi
+significance,ahamiyati
+vessel,idish
+storage,saqlash
+flee,qochmoq
+mm-hmm,mm-hmm
+leather,teri
+distribute,tarqatmoq
+evolution,evolyutsiya
+ill,kasal
+tribe,qabila
+shelf,raf
+grandfather,bobo
+lawn,maysazor
+buyer,xaridor
+dining,ovqatlanish
+wisdom,donolik
+council,kengash
+vulnerable,zaif
+instance,misol
+garlic,sarimsoq
+capability,qobiliyat
+poetry,she'riyat
+celebrity,mashhurlik
+gradually,asta-sekin
+stability,barqarorlik
+fantasy,xayol
+scared,qo'rqib ketdi
+plot,fitna
+framework,ramka
+gesture,imo-ishora
+depending,qarab
+ongoing,davom etayotgan
+psychology,psixologiya
+counselor,maslahatchi
+chapter,bob
+divorce,ajralish
+owe,qarzdor
+pipe,quvur
+athletic,sport
+slight,ozgina
+math,matematik
+shade,soya
+tail,quyruq
+sustain,qo'llab-quvvatlamoq
+mount,o'rnatish
+obligation,majburiyat
+angle,burchak
+palm,kaft
+differ,farq qiladi
+custom,odatiy
+economist,iqtisodchi
+fifteen,o'n besh
+soup,osh
+celebration,bayram
+efficient,samarali
+composition,tarkibi
+satisfy,qondirmoq
+pile,qoziq
+briefly,qisqacha
+carbon,uglerod
+closer,yaqinroq
+consume,iste'mol
+scheme,sxema
+crack,yorilish
+frequency,chastota
+tobacco,tamaki
+survivor,tirik qolgan
+besides,bundan tashqari
+psychologist,psixolog
+wealthy,boy
+galaxy,galaktika
+given,berilgan
+ski,chang'i
+limitation,cheklash
+trace,iz
+appointment,uchrashuv
+preference,afzallik
+meter,metr
+explosion,portlash
+publicly,ommaviy ravishda
+incredible,aql bovar qilmaydigan
+fighter,qiruvchi
+rapid,tezkor
+admission,kirish
+hunter,ovchi
+educate,tarbiyalash
+painful,alamli
+friendship,do'stlik
+aide,yordamchi
+infant,go'dak
+calculate,hisoblash
+fifty,ellik
+rid,xalos
+porch,ayvon
+tendency,moyillik
+uniform,bir xil
+formation,shakllanish
+scholarship,stipendiya
+reservation,bron qilish
+efficiency,samaradorlik
+qualify,saralash
+mall,savdo markazi
+derive,hosil qilmoq
+scandal,janjal
+PC,Kompyuter
+helpful,foydali
+impress,taassurot qoldirmoq
+heel,tovon
+resemble,o'xshash
+privacy,maxfiylik
+fabric,mato
+contest,tanlov
+proportion,mutanosiblik
+guideline,ko'rsatma
+rifle,miltiq
+maintenance,texnik xizmat ko'rsatish
+conviction,ishonchlilik
+trick,hiyla
+organic,organik
+tent,chodir
+examination,imtihon
+publisher,noshir
+strengthen,mustahkamlash
+proposed,taklif qilingan
+myth,afsona
+sophisticated,murakkab
+cow,sigir
+etc,va boshqalar
+standing,tik turib
+asleep,uxlab yotgan
+tennis,tennis
+nerve,asab
+barrel,bochka
+bombing,bombardimon qilish
+membership,A'zolik
+ratio,nisbat
+menu,menyu
+controversial,bahsli
+desperate,umidsiz
+lifestyle,turmush tarzi
+humor,hazil
+loud,baland
+glove,qo'lqop
+sufficient,etarli
+narrative,hikoya
+photographer,fotograf
+helicopter,vertolyot
+modest,kamtarona
+provider,provayder
+delay,kechikish
+agricultural,qishloq xo'jaligi
+explode,portlash
+stroke,qon tomir
+scope,qamrov doirasi
+punishment,jazo
+handful,hovuch
+badly,yomon
+horizon,ufq
+curious,qiziquvchan
+downtown,shahar markazida
+girlfriend,qiz do'sti
+prompt,tezkor
+cholesterol,xolesterin
+absorb,singdirmoq
+adjustment,moslashish
+taxpayer,soliq to'lovchi
+eager,g'ayratli
+principal,asosiy
+detailed,batafsil
+motivation,motivatsiya
+assignment,topshiriq
+restriction,cheklash
+laboratory,laboratoriya
+workshop,ustaxona
+differently,boshqacha
+auto,avtomatik
+romantic,romantik
+cotton,paxta
+motor,vosita
+sue,sudga berish
+flavor,lazzat
+overlook,e'tibordan chetda qoldirish
+float,suzmoq
+undergo,duchor
+sequence,ketma-ketlik
+demonstration,namoyish
+jet,samolyot
+orange,apelsin
+consumption,iste'mol
+assert,tasdiqlash
+blade,pichoq
+temporary,vaqtinchalik
+medication,dorilar
+cabin,idishni
+bite,tishlamoq
+edition,nashr
+valley,vodiy
+yours,seniki
+pitch,balandlik
+pine,qarag'ay
+brilliant,yorqin
+versus,ga qarshi
+manufacturing,ishlab chiqarish
+absolute,mutlaq
+chef,oshpaz
+discrimination,kamsitish
+offensive,tajovuzkor
+boom,portlash
+register,ro'yxatdan o'tish
+appoint,tayinlamoq
+heritage,meros
+God,Xudo
+dominant,dominant
+successfully,muvaffaqiyatli
+shit,bok
+lemon,limon
+hungry,och
+wander,adashmoq
+submit,topshirish
+economics,iqtisodiyot
+naked,yalang'och
+anticipate,kutmoq
+nut,yong'oq
+legacy,meros
+extension,kengaytma
+shrug,yelka qisish
+battery,batareya
+arrival,kelish
+legitimate,qonuniy
+orientation,yo'nalish
+inflation,inflyatsiya
+cope,engish
+flame,alanga
+cluster,klaster
+wound,yara
+dependent,qaram
+shower,dush
+institutional,institutsional
+depict,tasvirlash
+operating,operatsion
+flesh,go'sht
+garage,garaj
+operator,operator
+instructor,o'qituvchi
+collapse,qulash
+borrow,qarz olish
+furthermore,bundan tashqari
+comedy,komediya
+mortgage,ipoteka
+sanction,sanktsiya
+civilian,fuqarolik
+twelve,o'n ikki
+weekly,haftalik
+habitat,yashash joyi
+grain,don
+brush,cho'tka
+consciousness,ong
+devote,bag'ishlang
+measurement,o'lchov
+province,viloyat
+ease,osonlik
+seize,ushlamoq
+ethics,axloq
+nomination,nomzodlik
+permission,ruxsat
+wise,dono
+actress,aktrisa
+summit,sammit
+acid,kislota
+odds,koeffitsientlar
+gifted,iqtidorli
+frustration,umidsizlik
+medium,o'rta
+physically,jismoniy
+distinguish,ajratmoq
+shore,qirg'oq
+repeatedly,qayta-qayta
+lung,o'pka
+running,yugurish
+distinct,aniq
+artistic,badiiy
+discourse,nutq
+basket,savat
+ah,ah
+fighting,jang qilish
+impressive,ta'sirchan
+competitor,raqib
+ugly,xunuk
+worried,xavotirda
+portray,tasvirlash
+powder,kukun
+ghost,arvoh
+persuade,ishontirish
+moderate,o'rtacha
+subsequent,keyingi
+continued,davom etdi
+cookie,pechene
+carrier,tashuvchi
+cooking,pishirish
+frequent,tez-tez
+ban,taqiqlash
+awful,dahshatli
+admire,qoyil qolish
+pet,Uy hayvoni
+miracle,mo''jiza
+exceed,oshib ketish
+rhythm,ritm
+widespread,keng tarqalgan
+killing,o'ldirish
+lovely,yoqimli
+sin,gunoh
+charity,xayriya
+script,skript
+tactic,taktika
+identification,identifikatsiya qilish
+transformation,o'zgartirish
+everyday,har kuni
+headline,sarlavha
+venture,shovqin
+invasion,bosqin
+nonetheless,baribir
+adequate,etarli
+piano,pianino
+grocery,oziq-ovqat
+intensity,intensivlik
+exhibit,ko'rgazma
+blanket,adyol
+margin,margin
+quarterback,yarim himoyachi
+mouse,sichqoncha
+rope,arqon
+concrete,beton
+prescription,retsept
+African-American,Afroamerikalik
+chase,ketidan quvmoq
+brick,g'isht
+recruit,yollash
+patch,yamoq
+consensus,Kelishuv
+horror,dahshat
+recording,yozib olish
+changing,o'zgaruvchan
+painter,rassom
+colonial,mustamlaka
+pie,pirog
+sake,xayr
+gaze,qarash
+courage,jasorat
+pregnancy,homiladorlik
+swear,qasam ichish
+defeat,mag'lubiyat
+clue,maslahat
+reinforce,mustahkamlamoq
+confusion,chalkashlik
+slice,tilim
+occupation,kasb
+dear,azizim
+coal,ko'mir
+sacred,muqaddas
+formula,formula
+cognitive,kognitiv
+collective,jamoaviy
+exact,aniq
+uncle,amaki
+captain,kapitan
+sigh,xo'rsin
+attribute,xususiyat
+dare,jur'at
+homeless,uysiz
+gallery,galereya
+soccer,futbol
+defendant,sudlanuvchi
+tunnel,tunnel
+fitness,fitness
+lap,aylana
+grave,qabr
+toe,oyoq barmog'i
+container,idish
+virtue,fazilat
+abroad,chet elda
+architect,me'mor
+dramatically,keskin
+makeup,pardoz
+inquiry,so'rov
+rose,atirgul
+surprisingly,ajablanarli
+highlight,ajratib ko'rsatish
+decrease,pasayish
+indication,ko'rsatma
+rail,temir yo'l
+anniversary,yubiley
+couch,divan
+alliance,ittifoq
+hypothesis,gipoteza
+boyfriend,yigit
+compose,tuzmoq
+mess,tartibsizlik
+legend,afsona
+regulate,tartibga solish
+adolescent,o'spirin
+shine,porlash
+norm,norma
+upset,xafa
+remark,izoh
+resign,iste'foga chiqish
+reward,mukofot
+gentle,muloyim
+related,bog'liq
+organ,organ
+lightly,engil
+concerning,haqida
+invent,o'ylab topmoq
+laughter,kulgu
+northwest,shimoli g'arbiy
+counseling,maslahat
+receiver,qabul qiluvchi
+ritual,marosim
+insect,hasharot
+interrupt,uzmoq
+salmon,go'shti Qizil baliq
+trading,savdo
+magic,sehr
+superior,ustun
+combat,jang
+stem,ildiz
+surgeon,jarroh
+acceptable,maqbul
+physics,fizika
+rape,zo'rlash
+counsel,maslahat
+jeans,jinsi shimlar
+hunt,ov qilish
+continuous,davomiy
+log,jurnal
+echo,aks sado
+pill,hap
+excited,hayajonlangan
+sculpture,haykaltaroshlik
+compound,birikma
+integrate,birlashtirmoq
+flour,un
+bitter,achchiq
+bare,yalang'och
+slope,Nishab
+rent,ijara
+presidency,prezidentlik
+serving,xizmat qilish
+subtle,nozik
+greatly,juda katta
+bishop,episkop
+drinking,ichish
+acceptance,qabul qilish
+pump,nasos
+candy,shirinlik
+evil,yovuzlik
+pleased,mamnun
+medal,medal
+beg,iltimos qiling
+sponsor,homiy
+ethical,axloqiy
+secondary,ikkilamchi
+slam,slam
+export,eksport
+experimental,eksperimental
+melt,eritmoq
+midnight,yarim tunda
+curve,egri chiziq
+integrity,yaxlitlik
+entitle,huquq
+evident,aniq
+logic,mantiq
+essence,mohiyat
+exclude,chiqarib tashlash
+harsh,qattiq
+closet,shkaf
+suburban,shahar atrofi
+greet,salom
+interior,ichki makon
+corridor,yo'lak
+retail,chakana savdo
+pitcher,krujka
+march,yurish
+snake,ilon
+excuse,uzr
+weakness,zaiflik
+pig,cho'chqa
+classical,klassik
+estimated,taxmin qilingan
+T-shirt,Futbolka
+unemployment,ishsizlik
+civilization,tsivilizatsiya
+fold,katlama
+reverse,teskari
+missing,yo'qolgan
+correlation,o'zaro bog'liqlik
+humanity,insoniyat
+flash,miltillovchi
+developer,ishlab chiquvchi
+reliable,ishonchli
+excitement,hayajon
+beef,mol go'shti
+Islam,Islom
+Roman,Rim
+architecture,me'morchilik
+occasional,vaqti-vaqti bilan
+administrative,ma'muriy
+elbow,tirsak
+deadly,halokatli
+Hispanic,Ispancha
+allegation,da'vo
+confuse,aralashtirmoq
+airplane,samolyot
+monthly,oylik
+duck,o'rdak
+dose,doza
+Korean,Koreys
+plead,yolvorish
+initiate,boshlash
+lecture,leksiya
+van,furgon
+sixth,oltinchi
+bay,dafna
+mainstream,asosiy oqim
+suburb,shahar atrofi
+sandwich,sendvich
+trunk,magistral
+rumor,mish-mish
+implementation,amalga oshirish
+swallow,yutmoq
+motivate,turtki berish
+render,ko'rsatish
+longtime,uzoq vaqt
+trap,tuzoq
+restrict,cheklash
+cloth,mato
+seemingly,aftidan
+legislative,qonun chiqaruvchi
+effectiveness,samaradorlik
+enforce,majburlash
+lens,ob'ektiv
+inspector,tekshiruvchi
+lend,qarz berish
+plain,tekis
+fraud,firibgarlik
+companion,hamrohi
+contend,bahslashmoq
+nail,mix
+array,qator
+strict,qattiq
+assemble,yig'moq
+frankly,ochiqchasiga
+rat,kalamush
+hay,pichan
+hallway,yo'lak
+cave,g'or
+inevitable,muqarrar
+southwest,janubi-g'arbiy
+monster,hayvon
+unexpected,kutilmagan
+obstacle,to'siq
+facilitate,osonlashtirmoq
+rip,joyi jannatda bo'lsin
+herb,o't
+overwhelming,juda katta
+integration,integratsiya
+crystal,kristall
+recession,turg'unlik
+written,yozilgan
+motive,sabab
+flood,toshqin
+pen,qalam
+ownership,mulkchilik
+nightmare,kabus
+inspection,tekshirish
+supervisor,nazoratchi
+consult,maslahatlashing
+arena,maydon
+diagnosis,tashxis
+possession,egalik qilish
+forgive,kechir
+consistently,doimiy ravishda
+basement,podval
+drift,drift
+drain,drenaj
+prosecution,prokuratura
+maximum,maksimal
+announcement,e'lon
+warrior,jangchi
+prediction,bashorat qilish
+bacteria,bakteriyalar
+questionnaire,anketa
+mud,loy
+infrastructure,infratuzilma
+hurry,shoshiling
+privilege,imtiyoz
+temple,ma'bad
+outdoor,ochiq
+suck,emish
+and/or,va / yoki
+broadcast,translyatsiya
+re,qayta
+leap,sakrash
+random,tasodifiy
+wrist,bilak
+curtain,parda
+pond,suv havzasi
+domain,domen
+guilt,ayb
+cattle,qoramol
+walking,yurish
+playoff,musobaqa final o'yini
+minimum,eng kam
+fiscal,moliyaviy
+skirt,yubka
+dump,tashlamoq
+hence,shu sababli
+database,ma'lumotlar bazasi
+uncomfortable,noqulay
+execute,ijro etish
+limb,oyoq-qo'l
+ideology,mafkura
+tune,sozlash
+continuing,davom etmoqda
+harm,zarar
+railroad,temir yo'l
+endure,chidang
+radiation,nurlanish
+horn,shox
+chronic,surunkali
+peaceful,tinch
+innovation,yangilik
+strain,zo'riqish
+guitar,gitara
+replacement,almashtirish
+behave,o'zini tutish
+administer,boshqarish
+simultaneously,bir vaqtning o'zida
+dancer,raqqosa
+amendment,tuzatish
+pad,yostiq
+transmission,yuqish
+await,kutmoq
+retired,nafaqaga chiqqan
+trigger,qo'zg'atuvchi
+spill,to'kmoq
+grateful,minnatdor
+grace,inoyat
+virtual,virtual
+colony,koloniya
+adoption,asrab olish
+indigenous,mahalliy
+closed,yopiq
+convict,mahkum
+towel,sochiq
+modify,o'zgartirish
+particle,zarracha
+prize,mukofot
+landing,qo'nish
+boost,kuchaytirish
+bat,ko'rshapalak
+alarm,signal
+festival,festival
+grip,ushlash
+weird,g'alati
+undermine,buzmoq
+freshman,birinchi kurs talabasi
+sweat,ter
+outer,tashqi
+drunk,mast
+separation,ajratish
+traditionally,an'anaviy ravishda
+govern,boshqarish
+southeast,janubi-sharq
+intelligent,aqlli
+wherever,qayerda bo'lsa ham
+ballot,ovoz berish
+rhetoric,ritorika
+convinced,ishonch hosil qildi
+driving,haydash
+vitamin,vitamin
+enthusiasm,g'ayrat
+accommodate,joylashtirmoq
+praise,Maqtov
+injure,jarohat etkazish
+wilderness,cho'l
+endless,cheksiz
+mandate,mandat
+respectively,navbati bilan
+uncertainty,noaniqlik
+chaos,tartibsizlik
+mechanical,mexanik
+canvas,kanvas
+forty,qirq
+lobby,lobbi
+profound,chuqur
+format,format
+trait,xususiyat
+currency,valyuta
+turkey,kurka
+reserve,zaxira
+beam,nur
+astronomer,astronom
+corruption,korruptsiya
+contractor,pudratchi
+apologize,uzr
+doctrine,ta'limot
+genuine,haqiqiy
+thumb,bosh barmog'i
+unity,birlik
+compromise,murosaga kelish
+horrible,dahshatli
+behavioral,xulq-atvori
+exclusive,eksklyuziv
+scatter,tarqalmoq
+commonly,odatda
+convey,etkazmoq
+twist,burama
+complexity,murakkablik
+fork,vilka
+disk,disk
+relieve,yengillashtirmoq
+suspicion,shubha
+health-care,Sog'liqni saqlash
+residence,yashash joyi
+shame,uyat
+meaningful,mazmunli
+sidewalk,yulka
+Olympics,Olimpiada
+technological,texnologik
+signature,imzo
+pleasant,yoqimli
+wow,Qoyil
+suspend,to'xtatib turish
+rebel,isyonchi
+frozen,muzlatilgan
+spouse,turmush o'rtog'i
+fluid,suyuqlik
+pension,pensiya
+resume,Rezyume; qayta boshlash
+theoretical,nazariy
+sodium,natriy
+promotion,rag'batlantirish
+delicate,nozik
+forehead,peshona
+rebuild,qayta qurish
+bounce,sakrash
+electrical,elektr
+hook,kanca
+detective,detektiv
+traveler,sayohatchi
+click,bosing
+compensation,tovon puli
+exit,Chiqish
+attraction,diqqatga sazovor joy
+dedicate,bag'ishlang
+altogether,birgalikda
+pickup,olib ketish; ko'tarish
+carve,o'ymakorlik
+needle,igna
+belly,qorin
+scare,qo'rqitish
+portfolio,portfel
+shuttle,servis
+invisible,ko'rinmas
+timing,vaqt
+engagement,nishon
+ankle,to'piq
+transaction,bitim
+rescue,qutqarish
+counterpart,hamkasb
+historically,tarixiy jihatdan
+firmly,qat'iy
+mild,yumshoq
+rider,chavandoz
+doll,qo'g'irchoq
+noon,peshin
+amid,o'rtasida
+identical,bir xil
+precise,aniq
+anxious,tashvishli
+structural,tizimli
+residential,Aholi yashash joyi
+diagnose,tashxis qo'yish
+carbohydrate,uglevod
+liberty,ozodlik
+poster,plakat
+theology,ilohiyot
+nonprofit,notijorat tashkilot
+crawl,sudralib yurish
+oxygen,kislorod
+handsome,kelishgan
+sum,sum
+provided,taqdim etilgan
+businessman,Tadbirkor
+promising,istiqbolli
+conscious,ongli
+determination,qat'iyat
+donor,donor
+hers,uning
+pastor,ruhoniy
+jazz,jazz
+opera,opera
+acquisition,sotib olish
+pit,chuqur
+hug,quchoqlang
+wildlife,yovvoyi hayot
+punish,jazolash
+equity,tenglik
+doorway,eshik
+departure,ketish
+elevator,lift
+teenage,o'spirin
+guidance,ko'rsatma
+happiness,baxt
+statue,haykal
+pursuit,ta'qib qilish
+repair,ta'mirlash
+decent,yaxshi
+gym,sportzal
+oral,og'zaki
+clerk,xizmatchi
+envelope,konvert
+reporting,hisobot berish
+destination,boradigan joy
+fist,musht
+endorse,tasdiqlash
+exploration,razvedka
+generous,saxiy
+bath,Vanna
+thereby,shu bilan
+indicator,ko'rsatkich
+sunlight,quyosh nuri
+feedback,mulohaza
+spectrum,spektr
+purple,siyohrang
+laser,lazer
+bold,qalin
+reluctant,istamay
+starting,boshlanish
+expertise,tajriba
+practically,amalda
+eating,ovqatlanish
+hint,ishora
+sharply,keskin
+parade,parad
+realm,shohlik
+cancel,bekor qilish
+blend,aralashtiramiz
+therapist,terapevt
+peel,tozalash
+pizza,pizza
+recipient,oluvchi
+hesitate,ikkilanib turing
+flip,aylantirish
+accounting,buxgalteriya hisobi
+bias,tarafkashlik
+huh,ha
+metaphor,metafora
+candle,sham
+judicial,sud
+entity,tashkilot
+suffering,azob
+full-time,to'liq stavka
+lamp,chiroq
+garbage,axlat
+servant,xizmatkor
+regulatory,tartibga soluvchi
+diplomatic,diplomatik
+elegant,oqlangan
+reception,ziyofat
+vanish,g'oyib bo'lmoq
+automatically,avtomatik ravishda
+chin,iyak
+necessity,zaruriyat
+confess,tan olish
+racism,irqchilik
+starter,boshlovchi
+banking,bank faoliyati
+casual,tasodifiy
+gravity,tortishish kuchi
+enroll,ro'yxatdan o'tish
+diminish,kamaytirish
+prevention,oldini olish
+minimize,minimallashtirish
+chop,chopish
+performer,ijrochi
+intent,niyat
+isolate,ajratmoq
+inventory,inventarizatsiya
+productive,samarali
+assembly,yig'ilish
+civic,fuqarolik
+silk,ipak
+magnitude,kattalik
+steep,tik
+hostage,garovga olingan
+collector,kollektor
+popularity,mashhurlik
+alien,begona
+dynamic,dinamik
+scary,qo'rqinchli
+equation,tenglama
+angel,farishta
+offering,qurbonlik
+rage,g'azab
+photography,fotosurat
+toilet,hojatxona
+disappointed,hafsalasi pir bo'lgan
+precious,qimmatli
+prohibit,taqiqlamoq
+realistic,realistik
+hidden,yashirin
+tender,tender
+gathering,yig'ilish
+outstanding,ajoyib
+stumble,qoqilish
+lonely,yolg'izlik
+automobile,avtomobil
+artificial,sun'iy
+dawn,tong otdi
+abstract,mavhum
+descend,tushmoq
+silly,ahmoqona
+tide,to'lqin
+shared,birgalikda
+hopefully,umid qilamanki
+readily,tayyor holda
+cooperate,hamkorlik qilish
+revolutionary,inqilobiy
+romance,romantik
+hardware,apparat
+pillow,yostiq
+kit,to'plam
+continent,qit'a
+seal,muhr
+circuit,elektron
+ruling,hukm qilish
+shortage,tanqislik
+annually,har yili
+lately,so'nggi paytlarda
+scan,skanerlash
+fool,ahmoq
+deadline,topshirish muddati; tugatish muddati
+rear,orqa
+processing,qayta ishlash
+ranch,chorvachilik
+coastal,qirg'oq bo'yi
+undertake,majburiyat
+softly,yumshoq
+burning,yonayotgan
+verbal,og'zaki
+tribal,qabila
+ridiculous,kulgili
+automatic,avtomatik
+diamond,olmos
+credibility,ishonchlilik
+import,Import
+sexually,jinsiy jihatdan
+divine,ilohiy
+sentiment,tuyg'u
+cart,arava
+oversee,nazorat qilish
+o'clock,soat
+elder,oqsoqol
+pro,pro
+inspiration,ilhom
+Dutch,Golland
+quantity,miqdor
+trailer,treyler
+mate,turmush o'rtoq
+Greek,Yunoncha
+genius,daho
+monument,yodgorlik
+bid,taklif qilish
+quest,izlanish
+sacrifice,qurbonlik
+invitation,taklifnoma
+accuracy,aniqlik
+juror,sudya
+officially,rasmiy ravishda
+broker,vositachi
+treasure,xazina
+loyalty,sadoqat
+talented,iste'dodli
+gasoline,benzin
+stiff,qattiq
+output,chiqish
+nominee,nomzod
+extended,kengaytirilgan
+diabetes,diabet
+slap,shapaloq
+toxic,zaharli
+alleged,da'vo qilingan
+jaw,jag '
+grief,qayg'u
+mysterious,sirli
+rocket,raketa
+donate,xayr-ehson qiling
+inmate,mahbus
+tackle,hal qilish
+dynamics,dinamikasi
+bow,kamon
+ours,bizniki
+dignity,qadr-qimmat
+carpet,gilam
+parental,ota-ona
+bubble,qabariq
+buddy,do'stim
+barn,ombor
+sword,qilich
+seventh,ettinchi
+glory,shon-sharaf
+tightly,mahkam
+protective,himoya
+tuck,tortib olish
+drum,baraban
+faint,holsiz
+queen,malika
+dilemma,dilemma
+input,kiritish
+specialize,ixtisoslashmoq
+northeast,shimoli-sharqda
+shallow,sayoz
+liability,javobgarlik
+sail,suzib yurish
+merchant,savdogar
+stadium,stadion
+improved,yaxshilandi
+bloody,qonli
+associated,bog'liq
+withdrawal,chekinish
+refrigerator,muzlatgich
+nest,uya
+thoroughly,yaxshilab
+lane,chiziq
+ancestor,ajdod
+condemn,mahkum qilmoq
+steam,bug '
+accent,urg'u
+optimistic,nekbin
+unite,birlashmoq
+cage,qafas
+equip,jihozlamoq
+shrimp,mayda qisqichbaqa
+homeland,vatan
+rack,tokcha
+costume,kostyum
+wolf,bo'ri
+courtroom,sud zali
+statute,nizom
+cartoon,multfilm
+productivity,hosildorlik
+grin,kulish
+symbolic,ramziy
+bug,xato
+bless,baraka
+aunt,xola
+agriculture,qishloq xo'jaligi
+hostile,dushman
+conceive,homilador bo'lish
+combined,birlashtirilgan
+instantly,bir zumda
+bankruptcy,bankrotlik
+vaccine,emlash
+bonus,bonus
+collaboration,hamkorlik
+mixed,aralashgan
+opposed,qarshi chiqdi
+orbit,orbitada
+grasp,tushunish
+patience,sabr
+spite,g'azab
+tropical,tropik
+voting,ovoz berish
+patrol,patrul
+willingness,tayyorlik
+revelation,Vahiy
+calm,sokin
+jewelry,zargarlik buyumlari
+Cuban,Kuba
+haul,sudramoq
+concede,tan olish
+wagon,vagon
+afterward,keyin
+spectacular,ajoyib
+ruin,xarob
+sheer,shaffof
+immune,immunitetga ega
+reliability,ishonchlilik
+ass,eshak
+alongside,yonma-yon
+bush,buta
+exotic,ekzotik
+fascinating,ajoyib
+clip,klip
+thigh,son
+bull,buqa
+drawer,tortma
+sheep,qo'ylar
+discourage,tushkunlikka tushirish
+coordinator,koordinator
+ideological,mafkuraviy
+runner,yuguruvchi
+secular,dunyoviy
+intimate,samimiy
+empire,imperiya
+cab,kabina
+exam,imtihon
+documentary,hujjatli
+neutral,neytral
+biology,biologiya
+flexible,egiluvchan
+progressive,progressiv
+web,veb
+conspiracy,fitna
+casualty,halokat
+republic,respublika
+execution,ijro
+terrific,dahshatli
+whale,kit
+functional,funktsional
+instinct,instinkt
+teammate,jamoadoshi
+aluminum,alyuminiy
+whoever,kim bo'lsa ham
+ministry,vazirlik
+verdict,hukm
+instruct,ko'rsatma berish
+skull,bosh suyagi
+self-esteem,o'z-o'zini hurmat
+cooperative,kooperativ
+manipulate,manipulyatsiya qilish
+bee,ari
+practitioner,amaliyotchi
+loop,pastadir
+edit,tahrirlash
+whip,qamchi
+puzzle,jumboq
+mushroom,qo'ziqorin
+subsidy,subsidiya
+boil,qaynatish
+tragic,fojiali
+mathematics,matematika
+mechanic,mexanik
+jar,banka
+earthquake,zilzila
+pork,cho'chqa go'shti
+creativity,ijodkorlik
+safely,xavfsiz
+underlying,asosda
+dessert,shirin
+sympathy,hamdardlik
+fisherman,baliqchi
+incredibly,nihoyatda
+isolation,izolyatsiya
+sock,paypoq
+eleven,o'n bir
+sexy,shahvoniy
+entrepreneur,Tadbirkor
+syndrome,sindrom
+bureau,byuro
+workplace,ish joyi
+ambition,ambitsiya
+touchdown,tegish
+utilize,foydalanish
+breeze,shabada
+costly,qimmat
+ambitious,shuhratparast
+Christianity,Nasroniylik
+presumably,ehtimol
+influential,ta'sirchan
+translation,tarjima
+uncertain,noaniq
+dissolve,eritmoq
+statistical,statistik
+gut,ichak
+metropolitan,metropoliten
+rolling,prokatlash
+aesthetic,estetik
+spell,sehr
+insert,kiritmoq
+booth,stend
+helmet,dubulg'a
+waist,bel
+expected,kutilgan
+lion,sher
+accomplishment,amalga oshirish
+royal,qirollik
+panic,vahima
+crush,ezish
+actively,faol ravishda
+cliff,jarlik
+minimal,minimal
+cord,sim
+fortunately,baxtiga
+cocaine,kokain
+illusion,xayol
+anonymous,noma'lum
+tolerate,toqat qil
+appreciation,minnatdorchilik
+commissioner,komissar
+flexibility,egiluvchanlik
+instructional,ko'rsatma
+scramble,aralashtirmoq
+casino,kazino
+tumor,o'sma
+decorate,bezash
+pulse,zarba
+equivalent,teng
+fixed,sobit
+experienced,tajribali
+donation,xayriya
+diary,kundalik
+sibling,qardosh
+irony,kinoya
+spoon,qoshiq
+midst,o'rtada
+alley,xiyobon
+interact,o'zaro ta'sir qilish
+soap,sovun
+cute,yoqimli
+rival,raqib
+short-term,qisqa muddat
+punch,musht
+pin,pin
+hockey,xokkey
+passing,o'tish
+persist,davom eting
+supplier,etkazib beruvchi
+known,ma'lum
+momentum,momentum
+purse,hamyon
+shed,to'kmoq
+liquid,suyuqlik
+icon,belgisi
+elephant,fil
+consequently,natijada
+legislature,qonun chiqaruvchi
+franchise,franchayzing
+correctly,to'g'ri
+mentally,aqliy
+foster,tarbiyachi
+bicycle,velosiped
+encouraging,dalda beruvchi
+cheat,aldash
+heal,shifo
+fever,isitma
+filter,filtr
+rabbit,quyon
+coin,tanga
+exploit,ekspluatatsiya
+accessible,kirish mumkin
+organism,organizm
+sensation,sensatsiya
+partially,qisman
+upstairs,yuqori qavat
+dried,quritilgan
+conservation,konservatsiya
+shove,surish
+backyard,orqa hovli
+charter,nizom
+stove,pechka
+consent,rozilik
+comprise,o'z ichiga oladi
+reminder,eslatma
+alike,bir xil
+placement,joylashtirish
+dough,xamir
+grandchild,nabira
+dam,to'g'on
+reportedly,xabarlarga ko'ra
+well-known,taniqli
+surrounding,atrof
+ecological,ekologik
+outfit,kiyim
+unprecedented,misli ko'rilmagan
+columnist,sharhlovchi
+workout,tayyorlamoq
+preliminary,dastlabki
+patent,Patent
+shy,uyatchan
+trash,axlat
+disabled,nogiron
+gross,yalpi
+damn,Jin ursin
+hormone,gormon
+texture,to'qima
+pencil,qalam
+frontier,chegara
+spray,buzadigan amallar
+disclose,oshkor qilish
+custody,qamoqqa olish
+banker,bankir
+beast,hayvon
+interfere,aralashmoq
+oak,eman
+eighth,sakkizinchi
+notebook,daftar
+outline,kontur
+attendance,qatnashish
+speculation,spekülasyon
+uncover,ochmoq
+behalf,nomidan
+innovative,innovatsion
+shark,Akula
+mill,tegirmon
+installation,o'rnatish
+stimulate,rag'batlantirish
+tag,yorliq
+vertical,vertikal
+swimming,suzish
+fleet,park
+catalog,katalog
+outsider,begona
+desperately,umidsiz
+stance,pozitsiya
+compel,majburlamoq
+sensitivity,sezgirlik
+someday,bir kun
+instant,lahzali
+debut,debyut
+proclaim,e'lon qiling
+worldwide,butun dunyo bo'ylab
+hike,zamm
+required,talab qilinadi
+confrontation,qarama-qarshilik
+colorful,rangli
+constitution,konstitutsiya
+trainer,murabbiy
+Thanksgiving,Minnatdorchilik kuni
+scent,hid
+stack,suyakka
+eyebrow,qosh
+sack,xalta
+cease,to'xtatish
+inherit,meros
+tray,laganda
+pioneer,kashshof
+organizational,tashkiliy
+textbook,darslik
+uh,uh
+nasty,yomon
+shrink,kichraytirish
+emerging,paydo bo'layotgan
+dot,nuqta
+wheat,bug'doy
+fierce,shiddatli
+envision,tasavvur qilish
+rational,oqilona
+kingdom,qirollik
+aisle,qator
+weaken,zaiflashtirmoq
+protocol,protokol
+exclusively,faqat
+vocal,vokal
+marketplace,bozor
+openly,ochiq
+unfair,adolatsiz
+terrain,relyef
+deploy,tarqatish
+risky,xavfli
+pasta,makaron
+genre,janr
+distract,chalg'itmoq
+merit,savob
+planner,rejalashtiruvchi
+depressed,tushkunlikka tushgan
+chunk,parcha
+closest,eng yaqin
+discount,chegirma
+ladder,narvon
+jungle,o'rmon
+migration,migratsiya
+breathing,nafas olish
+invade,bosib olish
+hurricane,bo'ron
+retailer,chakana sotuvchi
+classify,tasniflash
+coup,to'ntarish
+ambassador,elchi
+density,zichlik
+supportive,qo'llab-quvvatlovchi
+curiosity,qiziqish
+skip,o'tish
+aggression,tajovuz
+stimulus,rag'batlantirish
+journalism,jurnalistika
+robot,robot
+dip,botirish
+likewise,xuddi shunday
+informal,norasmiy
+Persian,Fors tili
+feather,patlar
+sphere,soha
+tighten,torting
+boast,maqtanish
+pat,pat
+perceived,idrok qilingan
+sole,Soley
+publicity,oshkoralik
+unfold,ochmoq
+well-being,farovonlik
+validity,amal qilish muddati
+ecosystem,ekotizim
+strictly,qat'iy ravishda
+partial,qisman
+collar,yoqa
+weed,o't
+compliance,muvofiqlik
+streak,chiziq
+supposedly,go'yo
+added,qo'shildi
+builder,quruvchi
+glimpse,qarash
+premise,shart
+specialty,ixtisosligi
+deem,deb hisoblayman
+artifact,artefakt
+sneak,yashirincha
+monkey,maymun
+mentor,murabbiy
+two-thirds,uchdan ikki qismi
+listener,tinglovchi
+lightning,chaqmoq
+legally,qonuniy
+sleeve,yeng
+disappointment,umidsizlik
+disturb,bezovta qilish
+rib,qovurg'a
+excessive,haddan tashqari
+high-tech,yuqori texnologiya
+debris,qoldiqlar
+rod,novda
+logical,mantiqiy
+ash,kul
+socially,ijtimoiy jihatdan
+parish,cherkov
+slavery,qullik
+blank,bo'sh
+commodity,tovar
+cure,davolash
+mineral,mineral
+hunger,ochlik
+dying,o'lmoq
+developmental,rivojlanish
+faster,Tezroq
+spare,zaxira
+halfway,yarim yo'l
+equality,tenglik
+cemetery,qabriston
+harassment,ta'qib qilish
+deliberately,qasddan
+fame,shuhrat
+regret,afsus
+striking,ajoyib
+likelihood,ehtimollik
+carrot,sabzi
+atop,tepada
+toll,Yo'l uchun haq
+rim,jant
+embarrassed,uyaldi
+fucking,lanet
+cling,yopishmoq
+isolated,izolyatsiya qilingan
+blink,miltillamoq
+suspicious,shubhali
+wheelchair,nogironlar aravachasi
+squad,tarkib
+eligible,loyiq
+processor,protsessor
+plunge,tushmoq
+demographic,demografik
+chill,sovuq
+refuge,boshpana
+steer,boshqarish
+legislator,qonun chiqaruvchi
+rally,miting
+programming,dasturlash
+cheer,hayqiriq
+outlet,rozetka
+intact,buzilmagan
+vendor,sotuvchi
+thrive,rivojlanmoq
+peanut,yeryong'oq
+chew,chaynash
+elaborate,ishlab chiqilgan
+conception,kontseptsiya
+auction,kim oshdi savdosi
+steak,biftek
+comply,rioya qilish
+triumph,g'alaba
+shareholder,aktsiyador
+comparable,taqqoslanadigan
+transport,transport
+conscience,vijdon
+calculation,hisoblash
+considerably,sezilarli darajada
+interval,oraliq
+scratch,chizish
+awake,uyg'oq
+jurisdiction,yurisdiktsiya
+inevitably,muqarrar ravishda
+feminist,feministik
+constraint,cheklash
+emotionally,hissiy jihatdan
+expedition,ekspeditsiya
+allegedly,go'yo
+similarity,o'xshashlik
+butt,ko't
+lid,qopqoq
+dumb,soqov
+bulk,ommaviy
+sprinkle,sepmoq
+mortality,o'lim
+philosophical,falsafiy
+conversion,konversiya
+patron,homiysi
+municipal,shahar
+liver,jigar
+harmony,Garmoniya
+solely,faqat
+tolerance,bag'rikenglik
+goat,echki
+blessing,baraka
+banana,banan
+palace,saroy
+formerly,avval
+peasant,dehqon
+neat,pokiza
+grandparent,bobosi
+lawmaker,qonun chiqaruvchi
+supermarket,Supermarket
+cruise,kruiz
+mobile,mobil
+calendar,taqvim
+widow,beva ayol
+deposit,depozit
+beard,soqol
+brake,tormoz
+screening,skrining
+impulse,impuls
+forbid,taqiqlash
+fur,mo'yna
+brutal,shafqatsiz
+predator,yirtqich
+poke,poke
+opt,tanlov
+voluntary,ixtiyoriy
+valid,yaroqli
+forum,forum
+dancing,raqs
+happily,baxtli
+soar,uchmoq
+removal,olib tashlash
+autonomy,muxtoriyat
+enact,qabul qilish
+thread,ip
+landmark,belgi
+unhappy,baxtsiz
+offender,huquqbuzar
+coming,kelmoqda
+privately,xususiy ravishda
+fraction,kasr
+distinctive,o'ziga xos
+tourism,turizm
+threshold,chegara
+routinely,muntazam ravishda
+suite,suite
+regulator,regulyator
+straw,somon
+theological,diniy
+exhaust,egzoz
+globe,globus
+fragile,mo'rt
+objection,e'tiroz
+chemistry,kimyo
+old-fashioned,eskirgan
+crowded,olomon
+blast,portlash
+prevail,ustunlik
+overnight,kecha davomida
+denial,rad etish
+rental,ijara
+fantastic,hayoliy
+fragment,parcha
+screw,vida
+warmth,issiqlik
+undergraduate,bakalavriat
+headache,bosh og'rig'i
+policeman,politsiyachi
+projection,proektsiya
+suitable,mos
+graduation,Bitiruv
+drill,burg'ulash
+cruel,shafqatsiz
+mansion,qasr
+grape,uzum
+authorize,avtorizatsiya qilish
+cottage,yozgi uy
+driveway,yo'l
+charm,jozibasi
+sexuality,jinsiylik
+loyal,sodiq
+clay,gil
+balloon,shar
+invention,kashfiyot
+ego,ego
+fare,tarif
+homework,Uy ishi
+disc,disk
+sofa,divan
+availability,mavjudlik
+radar,radar
+frown,qoshlarini chimirib
+regain,qayta tiklash
+sweater,sviter
+rehabilitation,reabilitatsiya
+rubber,kauchuk
+retreat,chekinmoq
+molecule,molekula
+freely,erkin
+favorable,qulay
+steadily,barqaror
+integrated,birlashtirilgan
+ha,ha
+youngster,yosh
+premium,premium
+accountability,javobgarlik
+overwhelm,bosib olmoq
+one-third,uchdan biri
+contemplate,o'ylamoq
+update,yangilash
+spark,uchqun
+ironically,kinoya bilan
+fatigue,charchoq
+speculate,taxmin qilmoq
+marker,marker
+preach,voizlik qiling
+bucket,chelak
+blond,sariq
+confession,tan olish
+provoke,qo'zg'atmoq
+marble,marmar
+substantially,asosan
+defender,himoyachi
+explicit,aniq
+disturbing,bezovta qiluvchi
+surveillance,nazorat
+magnetic,magnit
+technician,texnik
+mutter,g'ichirlash
+devastating,halokatli
+depart,ketmoq
+arrow,o'q
+trauma,travma
+neighboring,qo'shni
+soak,ho'llash
+ribbon,lenta
+meantime,bu orada
+transmit,uzatish
+harvest,hosil
+consecutive,ketma-ket
+coordinate,muvofiqlashtirish
+spy,ayg'oqchi
+slot,uyasi
+riot,g'alayon
+nutrient,ozuqa moddasi
+citizenship,fuqarolik
+severely,qattiq
+sovereignty,suverenitet
+ridge,tizma
+brave,jasur
+lighting,yoritish
+specify,belgilang
+contributor,hissa qo'shuvchi
+frustrate,ko'nglini qoldirmoq
+articulate,aniq
+importantly,muhimi
+transit,tranzit
+dense,zich
+seminar,seminar
+electronics,elektronika
+sunny,quyoshli
+shorts,shortilar
+swell,shishiradi
+accusation,ayblov
+soften,yumshatish
+straighten,tekislang
+terribly,dahshatli
+cue,ishora
+bride,kelin
+biography,tarjimai holi
+hazard,xavf
+compelling,majburiy
+seldom,kamdan-kam hollarda
+tile,kafel
+economically,iqtisodiy jihatdan
+honestly,halol
+troubled,bezovta
+twentieth,yigirmanchi
+balanced,muvozanatli
+foreigner,chet ellik
+convenience,qulaylik
+delight,zavq
+weave,to'quv
+timber,yog'och
+till,qadar
+accurately,aniq
+plea,iltimos
+bulb,lampochka
+flying,uchish
+sustainable,barqaror
+devil,shayton
+bolt,murvat
+cargo,yuk
+spine,umurtqa pog'onasi
+seller,sotuvchi
+skilled,malakali
+managing,boshqarish
+marine,dengiz
+dock,dok
+organized,uyushgan
+fog,tuman
+diplomat,diplomat
+boring,zerikarli
+sometime,qachondir
+summary,xulosa
+missionary,missioner
+epidemic,epidemiya
+fatal,halokatli
+trim,qirqish
+warehouse,ombor
+accelerate,tezlashtirmoq
+butterfly,kelebek
+bronze,bronza
+drown,g'arq bo'ling
+inherent,xos
+nationwide,umummilliy
+spit,tupurish
+kneel,tiz cho'k
+vacuum,vakuum
+selected,tanlangan
+dictate,diktat qilish

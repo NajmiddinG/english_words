@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block context %}
+<div class="row mycard">
+    <div class="col-sm-6">
+        <div class="card text-center">
+            <div class="card-header">
+                Najmiddin tarjimon
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">
+                    Chindan ham <b style="color: red;">{{ word.english }}</b>ni o'chirmoqchimisiz?
+                </h5>
+                <form action="{% url 'delete_word' pk=word.id %}" method="POST">
+                    {% csrf_token %}
+                    <button type="submit" class="btn btn-danger">Ok</button>
+                    <a href="{% url 'new_word' %}" role="button" type="button" class="btn btn-warning mx-5">Qaytarish</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock context %}

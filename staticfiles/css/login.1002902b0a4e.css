@@ -1,0 +1,8 @@
+@media only screen and (max-width: 555px) {
+    .kirish {
+        text-align: center !important;
+        max-width: 60%;
+        color: red;
+        letter-spacing: 3px;
+    }
+}

@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block context %}
+
+    <div class="row mycard">
+        <div class="col-sm-8">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h5 class="card-title" style="letter-spacing: 2px; font-size: 22px; color: green">Testlar</h5>
+                </div>
+                {% if messages %}
+                    <ul class="messages">
+                        {% for message in messages %}
+                            <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+                                {{ message }}
+                                <button type="button" class="btn-close" data-bs-dismiss="alert"
+                                        aria-label="Close"></button>
+                            </div>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                <div class="card-body">
+
+                    <form method="POST">
+                        {% csrf_token %}
+                        <label style="font-size: 25px" for="test1">Testni boshlash</label>
+                        <div class="row">
+                            <label class="col-sm-4 col-md-3 col-mx-4 pt-3" for="test"
+                                   style="color: green; font-weight: 600">Qiyinlik darajasi</label>
+                            <div class="col-sm-7 col-md-3 col-mx-6 pt-3 btn-group btn-group-sm" id="test" role="group"
+                                 aria-label="Basic example">
+                                <button type="submit" name="test1" id="test1" class="btn btn-success"
+                                        title="Qiyinlik darajasi bo'yicha oson va tez-tez uchratadigan so'zlar"
+                                        tabindex="1">Oson
+                                </button>
+                                <button type="submit" name="test2" id="test2" class="btn btn-warning"
+                                        title="Qiyinlik darajasi bo'yicha o'rtacha so'zlar" tabindex="2">O'rtacha
+                                </button>
+                                <button type="submit" name="test3" id="test3" class="btn btn-danger"
+                                        title="Qiyinlik darajasi bo'yicha qiyin va kamdan-kam uchratadigan so'zlar"
+                                        tabindex="3">
+                                    Qiyin
+                                </button>
+                            </div>
+                            <label class="col-sm-4 col-md-3 col-mx-4 pt-3" for="soni"
+                                   style="color: green; font-weight: 600">Savollar soni</label>
+                            <div class="col-sm-7 col-md-3 col-mx-6 pt-3">
+                                <input type="number" id="soni" name="soni" class="form-control" value="10" tabindex="4"
+                                       min="5">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover">
+                        <thead>
+                        <th style="width: 10%;">№</th>
+                        <th style="width: 30%;">Sana</th>
+                        <th style="width: 40%;">Ball</th>
+                        <th style="width: 70%;">Ko'rish</th>
+                        <th style="width: 10%;">O'chirish</th>
+                        </thead>
+                        <tbody>
+                        {% for word in words %}
+                            <tr>
+                                <td>{{ forloop.counter }}</td>
+                                <td>{{ word.date|date:'Y-m-d H:i' }}</td>
+                                <td>
+                                    <a href="{% url 'delete_word' pk=word.id %}" role="button" type="button"
+                                       class="btn"><img src="{% static 'img/ochirish.png' %}" width=25></a>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+{% endblock context %}

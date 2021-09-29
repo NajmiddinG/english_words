@@ -1,0 +1,94 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+        crossorigin="anonymous"></script>
+    <style>
+        .mycard {
+            padding-top: 50px;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="row mycard">
+        <div class="col-sm-6">
+            <div class="card">
+                {% if messages %}
+                <ul class="messages">
+                    {% for message in messages %}
+                    <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+                        {{ message }}
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                <div class="card-header text-center h4">
+                    <img src="{% static 'img/register2.png' %}" width="40"> Ro'yhatidan o'tish
+                </div>
+                <div class="card-body">
+                    <form method="POST" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <div class="row">
+                            <div class="col-sm-6 col-mx-8">
+                                <label for="username"><img src="{% static 'img/profil.png' %}" width="30"> Username</label>
+                                <input id="username" autofocus type="text" name="username" class="form-control"  tabindex="1">
+                            </div>
+                            <div class="col-sm-6 col-mx-8">
+                                <label for="ism"><img src="{% static 'img/profil.png' %}" width="30"> Ism</label>
+                                <input id="ism" autofocus type="text" name="ism" class="form-control" tabindex="2">
+                            </div>
+                        </div>
+                        <div class="row my-2">
+                            <div class="col-sm-6 col-mx-8">
+                                <label for="password"><img src="{% static 'img/lock.png' %}" width="30"> Yangi parol</label>
+                                <input id="password" type="password" name="password" class="form-control" tabindex="3">
+                            </div>
+                            <div class="col-sm-6 col-mx-8">
+                                <label for="password2"><img src="{% static 'img/retriv.png' %}" width="30"> Parolni takrorlang</label>
+                                <input id="password2" type="password" name="password2" class="form-control" tabindex="4">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+{#                                <button class="btn btn-info" onclick="imageButton()" tabindex="5">Rasm yuklash</button>#}
+                                <input type="file" accept="image/*" name="rasm" id="rasm" tabindex="5">
+{#                                <tr><th><label for="id_user_image">Rasm yuklash: &nbsp;</label></th><td><input type="file" name="id_user_image" accept="image/*" id="id_user_image"></td></tr>#}
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-6" >
+                                <button type="submit" name="orqaga" id="orqaga" class="orqaga btn btn-secondary p-2 m-2" tabindex="7">&nbsp;<img src="{% static 'img/chap.png' %} " width="20"> Orqaga</button>
+                            </div>
+                            <div class="col-6" >
+                                <button type="submit" name="saqlash" class="btn btn-success p-2 m-2" tabindex="6"><img src="{% static 'img/checked.png' %} " width="20"> Saqlash</button>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function imageButton() {
+            document.getElementById("rasm").click();
+        }
+        {#document.getElementById("rasm").style.visibility = 'hidden';#}
+    </script>
+
+</body>
+</html>
