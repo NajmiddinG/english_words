@@ -4,7 +4,7 @@ import django_heroku
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'g65rb6f5erdjhjhbgjfcetsq2aswexdrtfvgybhvrtfgvybhuftrcgvybhjgvctfgbhkjhkj'
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['.herokuapp.com', '127.0.0.1']
 AUTH_USER_MODEL = 'app.CustomUser'
@@ -84,7 +84,6 @@ USE_L10N = True
 USE_TZ = True
 
 STATIC_URL = '/static/'
-STATIC_ROOT = BASE_DIR / 'static'
 STATICFILES_DIRS = [BASE_DIR / 'static']
 MEDIA_URL = '/media/'
 MEDIA_ROOT = 'media'

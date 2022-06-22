@@ -42,13 +42,14 @@ def registratsiya(request):
             data = request.POST
             username = data['username']
             ism = data['ism']
+            print(data.get('rasm'), 23523523523)
+            image = request.FILES['rasm'] if data.get('rasm') else None
             parol = data['password']
             paroltak = data['password2']
 
             if username and ism and parol and paroltak:
                 if parol == paroltak:
-                    user = CustomUser.objects.create_user(username=username, password=parol, first_name=ism)
-                    user.image = request.FILES['rasm']
+                    user = CustomUser.objects.create_user(username=username, password=parol, first_name=ism, image=image)
                     user.save()
                     auth_login(request, user)
                     return redirect('new_word')

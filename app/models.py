@@ -3,7 +3,7 @@ from django.contrib.auth.models import AbstractUser
 
 
 class CustomUser(AbstractUser):
-    image = models.ImageField(upload_to='user', default='profil.png')
+    image = models.ImageField(upload_to='users/', default='users/profil.png')
 
     class Meta(AbstractUser.Meta):
         swappable = 'AUTH_USER_MODEL'

@@ -37,8 +37,8 @@
                 
             </ul>
             <div style="float: right;">
-                   <p style="font-size: 20px;"><img src="{{ user.image.url }}" class="rounded-circle" alt="profil" height="50" width="50"> {{ user.first_name }} &nbsp;&nbsp;</p>
-               <a style="display: block; text-align: end;" href="{% url 'logout' %}"><img src="{% static 'img/cancel.png' %}" width="25" alt="cancel">Chiqish</a>
+                   <p style="font-size: 20px;"><img src="{% if user.image %}{{ MEDIA_URL }}{{ user.image.url }}{% else %}/media/users/profil.png{% endif %}" class="rounded-circle" alt="profil" height="50" width="50"> {{ user.first_name }} &nbsp;&nbsp;</p>
+               <a style="display: block; text-align: end; text-decoration: none;" href="{% url 'logout' %}"><img style="margin-top: -5px;" src="{% static 'img/cancel.png' %}" width="25" alt="cancel">Chiqish</a>
             </div>
         </div>
     </div>
