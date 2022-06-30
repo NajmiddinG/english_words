@@ -1,0 +1,95 @@
+{% extends 'base.html' %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
+{% block context %}
+
+    <div class="row mycard">
+        <div class="col-sm-8">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h5 class="card-title" style="letter-spacing: 2px; font-size: 22px; color: green"
+                        id="category_title">
+                        {% if categor %}
+                            {{ categor.name }}
+                        {% else %}
+                            {{ b }}
+                        {% endif %}
+                    </h5>
+                </div>
+
+                <div class="card-body">
+
+
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover">
+                            <thead style="overflow-x: auto; white-space: nowrap;">
+                            <th style="width: 10%;">№</th>
+                            <th style="width: 25%;">English</th>
+                            <th style="width: 25%;">Uzbek</th>
+                            <th style="width: 70%;">Sana</th>
+                            <th style="width: 10%;">Taxrirlash</th>
+                            <th style="width: 10%;">O'chirish</th>
+                            </thead>
+                            <tbody style="overflow-x: auto; white-space: nowrap;">
+                            </tbody>
+                            {% if words %}
+                                {% for word in words %}
+                                    <tr>
+                                        <td class="table_data" title="{{ forloop.counter }}">{{ forloop.counter }}</td>
+                                        <td class="table_data" title="{{ word.english }}">{{ word.english }}</td>
+                                        <td class="table_data" title="{{ word.uzbek }}">{{ word.uzbek }}</td>
+                                        <td class="table_data" title="{{ word.date|date:'H:i:s' }}">{{ word.date|date:'H:i:s' }}</td>
+                                        {% if word.created_user_id == 1 and word.english == "Hello" %}
+                                            <td class="table_data">...</td>
+                                            <td class="table_data">...</td>
+                                        {% else %}
+                                            <td class="table_data">
+                                                <a href="{% url 'edit_word' pk=word.id %}" role="button"
+                                                   type="button" class="btn"><img src="{% static 'img/pencil.png' %}"
+                                                                                  width="25"></a>
+                                            </td>
+                                            <td class="table_data">
+                                                <a href="{% url 'delete_word' pk=word.id %}" role="button" type="button"
+                                                   class="btn"><img src="{% static 'img/ochirish.png' %}" width=25></a>
+                                            </td>
+                                        {% endif %}
+                                    </tr>
+                                {% endfor %}
+                            {% endif %}
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <center class="toplam_div" style="height: 200px; overflow: auto; top: 100px;border: 0; scrollbar-width: 8px;">
+        <center style="width: 200px; align:center;padding-top: 10px;">
+            <h5 class="card-title" style="letter-spacing: 2px; font-size: 22px; color: green">{% if cate %}Kategoriyalar
+                ro'yhati{% endif %}</h5><br>
+            <form method="post">
+                {% csrf_token %}
+                {% for c in cate %}
+                    <tr>
+                        <td>
+                            <button style="height: 30px; border: 0" type="submit" name="submit" value="{{ c.id }}"
+                                    onclick="Category_Title()"><p
+                                    style="background-color: green; color: white; width: 160px"
+                                    id="date">{{ c.name }}</p>
+                            </button>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </form>
+        </center>
+    </center>
+
+    <script>
+        document.querySelectorAll('.table_data').forEach(url => {
+        console.log(url.innerText.length);
+        if (url.innerText.length > 30) {
+            url.innerText = url.innerText.slice(0, 30) + '...'
+        }
+    })
+    </script>
+{% endblock context %}

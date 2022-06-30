@@ -1,0 +1,95 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block context %}
+    <div class="row mycard">
+        <div class="col-sm-8">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h5 class="card-title" style="letter-spacing: 2px; font-size: 22px; color: green">Yangi so'z
+                        qo'shish</h5>
+                </div>
+                {% if messages %}
+                    <ul class="messages">
+                        {% for message in messages %}
+                            <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+                                {{ message }}
+                                <button type="button" class="btn-close" data-bs-dismiss="alert"
+                                        aria-label="Close"></button>
+                            </div>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                <div class="card-body">
+
+                    <form method="POST">
+                        {% csrf_token %}
+                        <div class="row">
+                            <div class="col-sm">
+                                <div class="mb-3">
+                                    <label for="eng" class="form-label"
+                                           style="font-size: 20px;color: blue; font-weight: 600">English</label>
+                                    <input type="text" name="eng" required class="form-control"
+                                           style="border-color: blue" id="eng" tabindex="1">
+                                </div>
+                            </div>
+                            <div class="col-sm">
+                                <div class="mb-3">
+                                    <label for="uzb" class="form-label"
+                                           style="font-size: 20px;color: #ba9005; font-weight: 600">Uzbek</label>
+                                    <input type="text" name="uzb" required class="form-control" id="uzb"
+                                           style="border-color: #ba9005" tabindex="2">
+                                </div>
+                            </div>
+                            <div class="col-sm gy-4 pt-3">
+                                <button type="submit" class="btn btn-success" onclick="add()" tabindex="3">Qo'shish</button>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover">
+                            <thead style="overflow-x: auto; white-space: nowrap;">
+                            <th style="width: 10%;">№</th>
+                            <th style="width: 25%;">English</th>
+                            <th style="width: 25%;">Uzbek</th>
+{#                            <th style="width: 70%;">Sana</th>#}
+                            <th style="width: 10%;">Taxrirlash</th>
+                            <th style="width: 10%;">O'chirish</th>
+                            </thead>
+                            <tbody style="overflow-x: auto; white-space: nowrap;">
+                            {% for word in words %}
+                                <tr>
+                                    <td class="table_data" title="{{ forloop.counter }}">{{ forloop.counter }}</td>
+                                    <td class="table_data" title="{{ word.english }}">{{ word.english }}</td>
+                                    <td class="table_data" title="{{ word.uzbek }}">{{ word.uzbek }}</td>
+                                    <td class="table_data">
+                                        <a href="{% url 'edit_word' pk=word.id %}" role="button"
+                                           type="button" class="btn"><img src="{% static 'img/pencil.png' %}"
+                                                                          width="25"></a>
+                                    </td>
+                                    <td class="table_data">
+                                        <a href="{% url 'delete_word' pk=word.id %}" role="button" type="button"
+                                           class="btn"><img src="{% static 'img/ochirish.png' %}" width=25></a>
+                                    </td>
+                                </tr>
+                            {% endfor %}
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+    function add() {
+        document.getElementById('eng').click();
+    }
+    document.querySelectorAll('.table_data').forEach(url => {
+        console.log(url.innerText.length);
+        if (url.innerText.length > 30) {
+            url.innerText = url.innerText.slice(0, 30) + '...'
+        }
+    })
+    </script>
+{% endblock context %}

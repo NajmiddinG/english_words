@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block context %}
+<div class="row mycard">
+    <div class="col-sm-8">
+        <div class="card text-center">
+            <div class="card-header">
+                Najmiddin tarjimon
+            </div>
+           <div class="card-body">
+                <h5 class="card-title">O'zgartirish</h5>
+                <form method="POST">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="col-sm">
+                            <div class="mb-3">
+                                <label for="eng" class="form-label">English</label>
+                                <input type="text" name="eng" required class="form-control" id="eng" value="{{word.english}}">
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="mb-3">
+                                <label for="uzb" class="form-label">Uzbek</label>
+                                <input type="text" name="uzb" required class="form-control" id="uzb" value="{{ word.uzbek }}">
+                            </div>
+                        </div>
+                        <div class="col-sm gy-4">
+                            <button type="submit" class="btn btn-primary">Saqlash</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock context %}
